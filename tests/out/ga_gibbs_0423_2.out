@@ -1,0 +1,3501 @@
+nohup: ignoring input
+moo_dir: /home/cuisx/products/BDA/pathToNetwork-path-design/mooseeker-master/tests
+-----Sampling-----
+=====> after trim_chrom:  长度是2---[['R05744', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 1th chromsome---
+=====> after trim_chrom:  长度是12---[['R05701', 'C01494', 'C02666'], ['R06574', 'C02666', 'C10945'], ['R06574', 'C10945', 'C00021'], ['R09569', 'C00021', 'C19700'], ['R09568', 'C19700', 'C00221'], ['R12983', 'C00221', 'C15548'], ['R12983', 'C15548', 'C00031'], ['R00049', 'C00031', 'C01158'], ['R03297', 'C01158', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是7---[['R07440', 'C01494', 'C05619'], ['R02379', 'C05619', 'C00482'], ['R10299', 'C00482', 'C01175'], ['R10261', 'C01175', 'C08639'], ['R06546', 'C08639', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 2th chromsome---
+=====> after trim_chrom:  长度是9---[['R05701', 'C01494', 'C02666'], ['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06577', 'C12205', 'C02325'], ['R03918', 'C02325', 'C05610'], ['R02220', 'C05610', 'C00411'], ['R06578', 'C00411', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 3th chromsome---
+=====> after trim_chrom:  长度是2---[['R05744', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 4th chromsome---
+=====> after trim_chrom:  长度是10---[['R03366', 'C01494', 'C01197'], ['R02997', 'C01197', 'C00852'], ['R04342', 'C00852', 'C12208'], ['R07432', 'C12208', 'C00223'], ['R07436', 'C00223', 'C00323'], ['R07876', 'C00323', 'C12640'], ['R07876', 'C12640', 'C08725'], ['R10298', 'C08725', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R05744', 'C01494', 'C00406'], ['R08810', 'C00406', 'C10443'], ['R08812', 'C10443', 'C17742'], ['R08809', 'C17742', 'C00223'], ['R06544', 'C00223', 'C12095'], ['R06544', 'C12095', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是12---[['R03366', 'C01494', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R07433', 'C10434', 'C00323'], ['R07930', 'C00323', 'C16371'], ['R07930', 'C16371', 'C08725'], ['R07880', 'C08725', 'C16349'], ['R07880', 'C16349', 'C00223'], ['R12492', 'C00223', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是21---[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R00742', 'C00024', 'C00083'], ['R10485', 'C00083', 'C17366'], ['R10485', 'C17366', 'C03912'], ['R10507', 'C03912', 'C00016'], ['R00161', 'C00016', 'C00061'], ['R09798', 'C00061', 'C01847'], ['R05218', 'C01847', 'C06505'], ['R05218', 'C06505', 'C06504'], ['R05227', 'C06504', 'C06503'], ['R05224', 'C06503', 'C06399'], ['R05177', 'C06399', 'C06408'], ['R05149', 'C06408', 'C06319'], ['R05150', 'C06319', 'C06320'], ['R05219', 'C06320', 'C06416'], ['R05181', 'C06416', 'C06407'], ['R05180', 'C06407', 'C06406'], ['R05180', 'C06406', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+=====> after trim_chrom:  长度是7---[['R03366', 'C01494', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R10701', 'C10434', 'C00493'], ['R02413', 'C00493', 'C02637'], ['R01627', 'C02637', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是2---[['R05744', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 5th chromsome---
+=====> after trim_chrom:  长度是11---[['R03366', 'C01494', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R02253', 'C00811', 'C00423'], ['R02254', 'C00423', 'C01772'], ['R03709', 'C01772', 'C01198'], ['R05537', 'C01198', 'C00805'], ['R09539', 'C00805', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 6th chromsome---
+=====> after trim_chrom:  长度是26---[['R07440', 'C01494', 'C05619'], ['R02379', 'C05619', 'C00021'], ['R06479', 'C00021', 'C11963'], ['R06475', 'C11963', 'C11962'], ['R06470', 'C11962', 'C11961'], ['R06483', 'C11961', 'C00630'], ['R07160', 'C00630', 'C00141'], ['R01216', 'C00141', 'C00966'], ['R01226', 'C00966', 'C00143'], ['R12548', 'C00143', 'C03446'], ['R00594', 'C03446', 'C01764'], ['R03704', 'C01764', 'C00016'], ['R01741', 'C00016', 'C06473'], ['R01741', 'C06473', 'C00257'], ['R01538', 'C00257', 'C00204'], ['R08570', 'C00204', 'C00022'], ['R09254', 'C00022', 'C00041'], ['R00987', 'C00041', 'C00328'], ['R01959', 'C00328', 'C02700'], ['R03936', 'C02700', 'C05653'], ['R00988', 'C05653', 'C00108'], ['R00980', 'C00108', 'C00196'], ['R01508', 'C00196', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是2---[['R05744', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 7th chromsome---
+--This is the 8th chromsome---
+=====> after trim_chrom:  长度是13---[['R03366', 'C01494', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R01616', 'C00811', 'C00223'], ['R08805', 'C00223', 'C17740'], ['R08805', 'C17740', 'C00083'], ['R00743', 'C00083', 'C00024'], ['R12566', 'C00024', 'C00406'], ['R01942', 'C00406', 'C00323'], ['R07944', 'C00323', 'C16313'], ['R07944', 'C16313', 'C16312'], ['R10299', 'C16312', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是4---[['R03366', 'C01494', 'C01197'], ['R01943', 'C01197', 'C00323'], ['R01942', 'C00323', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 9th chromsome---
+=====> after trim_chrom:  长度是7---[['R05701', 'C01494', 'C02666'], ['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06570', 'C12205', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 10th chromsome---
+=====> after trim_chrom:  长度是7---[['R07440', 'C01494', 'C05619'], ['R02379', 'C05619', 'C00482'], ['R10261', 'C00482', 'C01175'], ['R10261', 'C01175', 'C08639'], ['R06546', 'C08639', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R05700', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 11th chromsome---
+=====> after trim_chrom:  长度是16---[['R03366', 'C01494', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R08766', 'C00811', 'C03964'], ['R03337', 'C03964', 'C01179'], ['R09254', 'C01179', 'C00082'], ['R13031', 'C00082', 'C00355'], ['R13032', 'C00355', 'C05604'], ['R08821', 'C05604', 'C08539'], ['R08822', 'C08539', 'C08540'], ['R08824', 'C08540', 'C08537'], ['R08819', 'C08537', 'C00031'], ['R00063', 'C00031', 'C01175'], ['R10299', 'C01175', 'C16312'], ['R07911', 'C16312', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是28---[['R08839', 'C01494', 'C17759'], ['R08823', 'C17759', 'C00031'], ['R04094', 'C00031', 'C05837'], ['R08167', 'C05837', 'C16517'], ['R08167', 'C16517', 'C00054'], ['R00537', 'C00054', 'C05302'], ['R04764', 'C05302', 'C05301'], ['R03088', 'C05301', 'C00951'], ['R03089', 'C00951', 'C05141'], ['R04683', 'C05141', 'C05504'], ['R04683', 'C05504', 'C00167'], ['R09636', 'C00167', 'C19763'], ['R09753', 'C19763', 'C19865'], ['R09754', 'C19865', 'C08983'], ['R09754', 'C08983', 'C02199'], ['R08022', 'C02199', 'C09806'], ['R08022', 'C09806', 'C16422'], ['R08021', 'C16422', 'C01709'], ['R08026', 'C01709', 'C00509'], ['R09791', 'C00509', 'C00021'], ['R11445', 'C00021', 'C00083'], ['R04386', 'C00083', 'C00024'], ['R08767', 'C00024', 'C00223'], ['R08807', 'C00223', 'C17743'], ['R08811', 'C17743', 'C17742'], ['R08809', 'C17742', 'C17741'], ['R08806', 'C17741', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是18---[['R03366', 'C01494', 'C01197'], ['R11206', 'C01197', 'C10447'], ['R08846', 'C10447', 'C00355'], ['R01815', 'C00355', 'C00082'], ['R12540', 'C00082', 'C00079'], ['R00699', 'C00079', 'C05332'], ['R02613', 'C05332', 'C00601'], ['R01377', 'C00601', 'C00166'], ['R01372', 'C00166', 'C05852'], ['R05450', 'C05852', 'C00544'], ['R02517', 'C00544', 'C05593'], ['R03299', 'C05593', 'C01161'], ['R03300', 'C01161', 'C04043'], ['R04084', 'C04043', 'C02916'], ['R05214', 'C02916', 'C06517'], ['R05212', 'C06517', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R05700', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 12th chromsome---
+=====> after trim_chrom:  长度是11---[['R03366', 'C01494', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R01616', 'C00811', 'C00223'], ['R08805', 'C00223', 'C17740'], ['R08805', 'C17740', 'C00083'], ['R06799', 'C00083', 'C12641'], ['R06799', 'C12641', 'C12640'], ['R07876', 'C12640', 'C08725'], ['R10298', 'C08725', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 13th chromsome---
+=====> after trim_chrom:  长度是4---[['R05700', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 14th chromsome---
+=====> after trim_chrom:  长度是17---[['R05700', 'C01494', 'C02666'], ['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06570', 'C12205', 'C12204'], ['R06576', 'C12204', 'C05610'], ['R07442', 'C05610', 'C00482'], ['R10261', 'C00482', 'C08604'], ['R10261', 'C08604', 'C08639'], ['R10261', 'C08639', 'C01175'], ['R10298', 'C01175', 'C08725'], ['R07930', 'C08725', 'C16371'], ['R07930', 'C16371', 'C00323'], ['R07944', 'C00323', 'C16313'], ['R07944', 'C16313', 'C16312'], ['R07911', 'C16312', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R03366', 'C01494', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R01637', 'C00230', 'C01424'], ['R09565', 'C01424', 'C04434'], ['R07839', 'C04434', 'C04324'], ['R04453', 'C04324', 'C04484'], ['R04488', 'C04484', 'C06035'], ['R09277', 'C06035', 'C18349'], ['R09277', 'C18349', 'C18338'], ['R09278', 'C18338', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R05744', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 15th chromsome---
+=====> after trim_chrom:  长度是2---[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 16th chromsome---
+=====> after trim_chrom:  长度是3---[['R05744', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 17th chromsome---
+=====> after trim_chrom:  长度是11---[['R05701', 'C01494', 'C02666'], ['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06570', 'C12205', 'C12204'], ['R06576', 'C12204', 'C00021'], ['R11445', 'C00021', 'C00083'], ['R09527', 'C00083', 'C00332'], ['R00238', 'C00332', 'C00024'], ['R05773', 'C00024', 'C07303'], ['R05772', 'C07303', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 18th chromsome---
+=====> after trim_chrom:  长度是3---[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 19th chromsome---
+=====> after trim_chrom:  长度是22---[['R03366', 'C01494', 'C01197'], ['R11206', 'C01197', 'C10447'], ['R08846', 'C10447', 'C00355'], ['R02080', 'C00355', 'C03758'], ['R04301', 'C03758', 'C05587'], ['R08831', 'C05587', 'C17754'], ['R08831', 'C17754', 'C08538'], ['R08820', 'C08538', 'C08540'], ['R08824', 'C08540', 'C08537'], ['R08824', 'C08537', 'C00167'], ['R07106', 'C00167', 'C14869'], ['R07106', 'C14869', 'C07490'], ['R07107', 'C07490', 'C11150'], ['R09157', 'C11150', 'C00209'], ['R00338', 'C00209', 'C00036'], ['R00350', 'C00036', 'C04115'], ['R04399', 'C04115', 'C04324'], ['R03550', 'C04324', 'C01424'], ['R03551', 'C01424', 'C05616'], ['R09271', 'C05616', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R05744', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 20th chromsome---
+-----Sampling Done-----
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:7.000000 
+Weighted Score:-4.263138 
+
+Length:9.000000 
+Weighted Score:-10.072671 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:11.000000 
+Weighted Score:-11.493295 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:4.000000 
+Weighted Score:-14.447615 
+
+Length:7.000000 
+Weighted Score:-16.481493 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:4.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+-----Crossover-----
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:7.000000 
+Weighted Score:-4.263138 
+
+Length:9.000000 
+Weighted Score:-10.072671 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:11.000000 
+Weighted Score:-11.493295 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:4.000000 
+Weighted Score:-14.447615 
+
+Length:7.000000 
+Weighted Score:-16.481493 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:4.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是3---[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> Mututation of the 3th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:11.000000 
+Weighted Score:-7.480049 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是8---[['R08806', 'C00406', 'C17741'], ['R08810', 'C17741', 'C10443'], ['R08812', 'C10443', 'C17742'], ['R08808', 'C17742', 'C17740'], ['R08805', 'C17740', 'C00083'], ['R11445', 'C00083', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R08806', 'C00406', 'C17741'], ['R08810', 'C17741', 'C10443'], ['R08812', 'C10443', 'C17742'], ['R08808', 'C17742', 'C17740'], ['R08805', 'C17740', 'C00083'], ['R11445', 'C00083', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]
+--------------------
+=====> Mututation of the 5th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:10.000000 
+Weighted Score:-12.918970 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:10.000000 
+Weighted Score:-12.918970 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是1---[['R12566', 'C00406', 'C00755']]<=====
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是3---[['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> Mututation of the 9th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是15---[['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06577', 'C12205', 'C02325'], ['R03918', 'C02325', 'C05610'], ['R07442', 'C05610', 'C00482'], ['R10298', 'C00482', 'C01175'], ['R10261', 'C01175', 'C08639'], ['R06545', 'C08639', 'C12096'], ['R06547', 'C12096', 'C12095'], ['R06544', 'C12095', 'C08604'], ['R07928', 'C08604', 'C16369'], ['R07928', 'C16369', 'C00323'], ['R01942', 'C00323', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是3---[['R02193', 'C02666', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 12th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:4.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是8---[['R05701', 'C02666', 'C01494'], ['R03366', 'C01494', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R10701', 'C10434', 'C00493'], ['R06847', 'C00493', 'C02637'], ['R01627', 'C02637', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是10---[['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R02481', 'C00024', 'C03137'], ['R02481', 'C03137', 'C00525'], ['R02482', 'C00525', 'C03414'], ['R02482', 'C03414', 'C00083'], ['R06801', 'C00083', 'C12642'], ['R06801', 'C12642', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是4---[['R05701', 'C02666', 'C01494'], ['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R05701', 'C02666', 'C01494'], ['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 14th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是2---[['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 15th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:4.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是4---[['R05700', 'C02666', 'C01494'], ['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R05700', 'C02666', 'C01494'], ['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 18th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+-----Crossover-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是2---[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> Mututation of the 19th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是9---[['R01942', 'C00406', 'C00323'], ['R01945', 'C00323', 'C00852'], ['R04342', 'C00852', 'C12208'], ['R07432', 'C12208', 'C00223'], ['R06545', 'C00223', 'C12096'], ['R06547', 'C12096', 'C12095'], ['R06544', 'C12095', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R02194', 'C01494', 'C00406'], ['R01942', 'C00406', 'C00323'], ['R01945', 'C00323', 'C00852'], ['R04342', 'C00852', 'C12208'], ['R07432', 'C12208', 'C00223'], ['R06545', 'C00223', 'C12096'], ['R06547', 'C12096', 'C12095'], ['R06544', 'C12095', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05273', 'C06672', 'C00755']]
+--------------------
+=====> Mututation of the 20th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:10.000000 
+Weighted Score:-4.263138 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是8---[['R12566', 'C00406', 'C00024'], ['R08433', 'C00024', 'C06020'], ['R10014', 'C06020', 'C06021'], ['R12787', 'C06021', 'C01026'], ['R01565', 'C01026', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R08433', 'C00024', 'C06020'], ['R10014', 'C06020', 'C06021'], ['R12787', 'C06021', 'C01026'], ['R01565', 'C01026', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]
+--------------------
+=====> Mututation of the 22th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是3---[['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> Mututation of the 24th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R08433', 'C00024', 'C06020'], ['R10014', 'C06020', 'C06021'], ['R12787', 'C06021', 'C01026'], ['R01565', 'C01026', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R08433', 'C00024', 'C06020'], ['R10014', 'C06020', 'C06021'], ['R12787', 'C06021', 'C01026'], ['R01565', 'C01026', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]
+----------
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+=====> after trim_chrom:  长度是29---[['R03727', 'C00406', 'C03156'], ['R03727', 'C03156', 'C00879'], ['R01981', 'C00879', 'C00333'], ['R10565', 'C00333', 'C15930'], ['R12146', 'C15930', 'C00558'], ['R02555', 'C00558', 'C00817'], ['R01540', 'C00817', 'C00204'], ['R08570', 'C00204', 'C00022'], ['R00006', 'C00022', 'C00900'], ['R03051', 'C00900', 'C04039'], ['R01209', 'C04039', 'C00141'], ['R02200', 'C00141', 'C00671'], ['R02197', 'C00671', 'C00407'], ['R06726', 'C00407', 'C06176'], ['R06726', 'C06176', 'C06177'], ['R06725', 'C06177', 'C12440'], ['R06724', 'C12440', 'C06366'], ['R01919', 'C06366', 'C00315'], ['R03899', 'C00315', 'C02567'], ['R03899', 'C02567', 'C18170'], ['R09074', 'C18170', 'C00612'], ['R09074', 'C00612', 'C00134'], ['R01157', 'C00134', 'C00179'], ['R01425', 'C00179', 'C02253'], ['R01425', 'C02253', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是19---[['R02193', 'C00406', 'C02666'], ['R02593', 'C02666', 'C00590'], ['R06573', 'C00590', 'C12205'], ['R06577', 'C12205', 'C02325'], ['R03605', 'C02325', 'C01533'], ['R03604', 'C01533', 'C00031'], ['R11791', 'C00031', 'C00252'], ['R11791', 'C00252', 'C00221'], ['R10040', 'C00221', 'C01594'], ['R10040', 'C01594', 'C02659'], ['R01553', 'C02659', 'C00207'], ['R05735', 'C00207', 'C00164'], ['R01364', 'C00164', 'C01061'], ['R01364', 'C01061', 'C00122'], ['R00408', 'C00122', 'C00016'], ['R03704', 'C00016', 'C00143'], ['R01217', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是2---[['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R02194', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 25th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:10.000000 
+Weighted Score:-16.499997 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是17---[['R03366', 'C01494', 'C01197'], ['R01943', 'C01197', 'C00323'], ['R07926', 'C00323', 'C16367'], ['R07926', 'C16367', 'C12138'], ['R10299', 'C12138', 'C16312'], ['R10299', 'C16312', 'C01175'], ['R00063', 'C01175', 'C00031'], ['R04333', 'C00031', 'C04197'], ['R03094', 'C04197', 'C00954'], ['R08609', 'C00954', 'C00463'], ['R00674', 'C00463', 'C00078'], ['R01814', 'C00078', 'C00643'], ['R02701', 'C00643', 'C00780'], ['R02912', 'C00780', 'C05659'], ['R02912', 'C05659', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R05744', 'C01494', 'C00406'], ['R12566', 'C00406', 'C00024'], ['R05508', 'C00024', 'C00827'], ['R01449', 'C00827', 'C00100'], ['R00931', 'C00100', 'C02225'], ['R00931', 'C02225', 'C00036'], ['R00350', 'C00036', 'C04115'], ['R04781', 'C04115', 'C05364'], ['R04482', 'C05364', 'C04324'], ['R03550', 'C04324', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R03366', 'C01494', 'C01197'], ['R02997', 'C01197', 'C00852'], ['R02998', 'C00852', 'C00296'], ['R09322', 'C00296', 'C00944'], ['R03084', 'C00944', 'C02637'], ['R01627', 'C02637', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> Mututation of the 26th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:10.000000 
+Weighted Score:-16.499997 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-10.536490 
+
+Length:10.000000 
+Weighted Score:-16.499997 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:8.000000 
+Weighted Score:-5.118606 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是5---[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> Mututation of the 27th iter 20th particle<=====
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:9.000000 
+Weighted Score:-17.630317 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:10.000000 
+Weighted Score:-16.499997 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是12---[['R07440', 'C01494', 'C05619'], ['R02379', 'C05619', 'C00482'], ['R10299', 'C00482', 'C01175'], ['R10261', 'C01175', 'C08639'], ['R07931', 'C08639', 'C16372'], ['R07931', 'C16372', 'C00323'], ['R07873', 'C00323', 'C16297'], ['R07875', 'C16297', 'C12640'], ['R07876', 'C12640', 'C08725'], ['R07874', 'C08725', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是6---[['R03366', 'C01494', 'C01197'], ['R01943', 'C01197', 'C00323'], ['R07926', 'C00323', 'C16367'], ['R07926', 'C16367', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R08839', 'C01494', 'C17759'], ['R08819', 'C17759', 'C00031'], ['R00503', 'C00031', 'C00243'], ['R04393', 'C00243', 'C00615'], ['R02630', 'C00615', 'C00159'], ['R00877', 'C00159', 'C00095'], ['R03232', 'C00095', 'C01094'], ['R10050', 'C01094', 'C16848'], ['R10049', 'C16848', 'C00546'], ['R11352', 'C00546', 'C00022'], ['R00692', 'C00022', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> Mututation of the 28th iter 20th particle<=====
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-17.900697 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+=====> after trim_chrom:  长度是2---[['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+=====> Mututation of the 32th iter 20th particle<=====
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:3.000000 
+Weighted Score:-17.430993 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+-----Mutation Failed!-----
+=====> after trim_chrom:  长度是11---[['R03366', 'C01494', 'C01197'], ['R02950', 'C01197', 'C00811'], ['R12534', 'C00811', 'C01744'], ['R02901', 'C01744', 'C00774'], ['R02901', 'C00774', 'C02183'], ['R04297', 'C02183', 'C03743'], ['R04297', 'C03743', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是9---[['R05700', 'C01494', 'C02666'], ['R06574', 'C02666', 'C10945'], ['R01941', 'C10945', 'C00323'], ['R07436', 'C00323', 'C00223'], ['R12492', 'C00223', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> Mututation of the 41th iter 20th particle<=====
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:9.000000 
+Weighted Score:-1.366661 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 44th iter 20th particle<=====
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:6.000000 
+Weighted Score:-10.536490 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:6.000000 
+Weighted Score:-10.536490 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:6.000000 
+Weighted Score:-10.536490 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Crossover Successfully!-----
+Chromesomes before crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after crossover is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+----------
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+--------------------
+-----Crossover Done-----
+-----Mutation Successfully!-----
+Chromesomes before mutation is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]
+Chromesomes after mutation is :
+[['R05701', 'C01494', 'C02666'], ['R06572', 'C02666', 'C12204'], ['R06569', 'C12204', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]
+--------------------
+=====> Mututation of the 48th iter 20th particle<=====
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:6.000000 
+Weighted Score:-10.536490 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+----- start Crossover -----
+-----Has no same node, Crossover failed!-----
+-----Crossover Done-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+-----Crossover-----
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:2.000000 
+Weighted Score:-19.126474 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+Length:5.000000 
+Weighted Score:-21.815198 
+
+--Execution Time: 0.561454 h---

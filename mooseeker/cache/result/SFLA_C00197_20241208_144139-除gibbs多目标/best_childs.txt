@@ -1,0 +1,200 @@
+Generation 1
+Length: 4, Total Reactions: 5, Fitness: 0.9130290770068467
+Reactions and Compounds:
+R01737	C00257	C00345
+R01528	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.44', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R01528', 'R01523', 'R00024', 'R09100']
+====================
+Generation 2
+Length: 4, Total Reactions: 6, Fitness: 0.7848675324675318
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R03140	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R03140', 'R00024', 'R09100']
+====================
+Generation 3
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 4
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 5
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 6
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 7
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 8
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 9
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 10
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 11
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 12
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 13
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 14
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 15
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 16
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 17
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 18
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 19
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================
+Generation 20
+Length: 4, Total Reactions: 5, Fitness: 0.5660538461538472
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================

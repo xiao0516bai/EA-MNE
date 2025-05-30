@@ -1,0 +1,8 @@
+pymoo
+cobra
+bs4
+requests 
+streamlit 
+pyyaml
+pandas
+ipykernel

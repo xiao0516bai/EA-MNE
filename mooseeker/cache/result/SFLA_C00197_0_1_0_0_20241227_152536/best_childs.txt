@@ -1,0 +1,10 @@
+Generation 1
+Length: 4, Total Reactions: 5, Fitness: 0.0
+Reactions and Compounds:
+R01737	C00257	C00345
+R10221	C00345	C00199
+R01523	C00199	C01182
+R00024	C01182	C00197
+Best Enzyme Pool: ['2.7.1.12', '1.1.1.343', '2.7.1.19', '4.1.1.39']
+Best Total Reactions: ['R01737', 'R10221', 'R01523', 'R00024', 'R09100']
+====================

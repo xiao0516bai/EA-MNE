@@ -1,0 +1,180 @@
+Generation 1
+Length: 3, Total Reactions: 4, Fitness: -2.9469978515139235
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R09532	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '3.1.3.80']
+Best Total Reactions: ['R01660', 'R01516', 'R09532', 'R01518']
+====================
+Generation 2
+Length: 3, Total Reactions: 4, Fitness: -2.9469978515139235
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R09532	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '3.1.3.80']
+Best Total Reactions: ['R01660', 'R01516', 'R09532', 'R01518']
+====================
+Generation 3
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 4
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 5
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 6
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 7
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 8
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 9
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 10
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 11
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 12
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 13
+Length: 3, Total Reactions: 4, Fitness: -3.252460575615426
+Reactions and Compounds:
+R01660	C00103	C00197
+R01516	C00197	C01159
+R02664	C01159	C00631
+Best Enzyme Pool: ['2.7.1.106', '5.4.2.11', '2.7.2.16']
+Best Total Reactions: ['R01660', 'R01516', 'R02664', 'R01518']
+====================
+Generation 14
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 15
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 16
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 17
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 18
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 19
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================
+Generation 20
+Length: 3, Total Reactions: 3, Fitness: -4.441089694198526
+Reactions and Compounds:
+R01660	C00103	C00197
+R01514	C00197	C00258
+R08572	C00258	C00631
+Best Enzyme Pool: ['2.7.1.106', '2.7.1.31', '2.7.1.165']
+Best Total Reactions: ['R01660', 'R01514', 'R08572']
+====================

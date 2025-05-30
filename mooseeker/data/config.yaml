@@ -1,0 +1,53 @@
+file_path:
+
+  kegg_cofactors: data/kegg/cofactors.csv
+
+  all_rxn_dict: data/kegg/all_rxn_dict.json
+  all_cpd_dict: data/kegg/all_cpd_dict.json
+#  mypool: cache/data/MYPOOL_20230914.npy
+  mypool: cache/data/MYPOOL_20240423.npy  # 修改为我自己生成的池子 因为要复现经典路径 所以自己在all_rxn_dict中添加了一个反应。
+
+  # dG
+  dG_dict: data/gibbs/dG.json
+  dG_dict_mlp: data/gibbs/dG_mlp.json
+  gibb_concentration: data/gibbs/concentrations.tab
+  gibb_rxn_ph7_quantity: data/gibbs/kegg_reactions_CC_ph70_quantity.tsv
+
+  # Yield
+  yield_dir: data/theoretical_yield/
+  host_sbml: data/theoretical_yield/iJO1366.xml
+
+  # cache 
+  data_dir: cache/data/
+  result_dir: cache/result/
+  checkpoint_dir: cache/checkpoint/
+  log_dir: cache/log/
+  enzyme_rxn_count_dir: cache/result/enzyme_rxn_count.txt
+
+#----------------
+init:
+  gen: 30
+  pop_size: 15
+  NrMax: 20
+
+#-----------------
+# M00001
+glycolysis:
+  abundant: ['C00001', 'C00002', 'C00003', 'C00004', 'C00005', 'C00006', 'C00007', 'C00008', 'C00009', 'C00010', 'C00080']
+  ob_substrate: C00267
+  ob_product: C00022
+
+vanillin:
+  abundant: ['C00001', 'C00002', 'C00003', 'C00004', 'C00005', 'C00006', 'C00007', 'C00008', 'C00009', 'C00010', 'C00080']
+  ob_substrate: C00082
+  ob_product: C00755
+# M00097
+beta-Carotene:
+  abundant: ['C00001', 'C00002', 'C00003', 'C00004', 'C00005', 'C00006', 'C00007', 'C00008', 'C00009', 'C00010', 'C00080']
+  ob_substrate: C00353
+  ob_product: C02094
+# M00095,类异戊二烯生物合成
+DMAPP:
+  abundant: ['C00001', 'C00002', 'C00003', 'C00004', 'C00005', 'C00006', 'C00007', 'C00008', 'C00009', 'C00010', 'C00080']
+  ob_substrate: C00024
+  ob_product: C00235

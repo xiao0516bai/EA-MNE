@@ -1,0 +1,1745 @@
+-----Sampling-----
+=====> after trim_chrom:  长度是2---[['R00728', 'C00082', 'C00022'], ['R12622', 'C00022', 'C00755']]<=====
+--This is the 1th chromsome---
+=====> after trim_chrom:  长度是17---[['R05671', 'C00082', 'C07027'], ['R05672', 'C07027', 'C07028'], ['R05672', 'C07028', 'C00024'], ['R04386', 'C00024', 'C00083'], ['R07731', 'C00083', 'C16222'], ['R07732', 'C16222', 'C10509'], ['R07733', 'C10509', 'C00858'], ['R07723', 'C00858', 'C16190'], ['R07722', 'C16190', 'C15567'], ['R07777', 'C15567', 'C09762'], ['R07712', 'C09762', 'C00042'], ['R03008', 'C00042', 'C00026'], ['R11269', 'C00026', 'C00025'], ['R10089', 'C00025', 'C00064'], ['R00576', 'C00064', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是12---[['R00728', 'C00082', 'C00146'], ['R01241', 'C00146', 'C00548'], ['R01241', 'C00548', 'C00033'], ['R01026', 'C00033', 'C01996'], ['R01023', 'C01996', 'C00114'], ['R01027', 'C00114', 'C00919'], ['R01028', 'C00919', 'C00059'], ['R00528', 'C00059', 'C00094'], ['R01636', 'C00094', 'C02236'], ['R01636', 'C02236', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是11---[['R10246', 'C00082', 'C01468'], ['R05666', 'C01468', 'C01455'], ['R03560', 'C01455', 'C01542'], ['R03608', 'C01542', 'C02923'], ['R03566', 'C02923', 'C01467'], ['R07665', 'C01467', 'C03351'], ['R04136', 'C03351', 'C03067'], ['R07667', 'C03067', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 2th chromsome---
+=====> after trim_chrom:  长度是11---[['R00734', 'C00082', 'C01179'], ['R01730', 'C01179', 'C00254'], ['R07276', 'C00254', 'C00026'], ['R11991', 'C00026', 'C00042'], ['R10640', 'C00042', 'C02612'], ['R03995', 'C02612', 'C06033'], ['R05078', 'C06033', 'C06035'], ['R09277', 'C06035', 'C18349'], ['R09277', 'C18349', 'C18338'], ['R09278', 'C18338', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R01795', 'C00082', 'C00079'], ['R08463', 'C00079', 'C08301'], ['R09089', 'C08301', 'C17268'], ['R09088', 'C17268', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 3th chromsome---
+=====> after trim_chrom:  长度是13---[['R00737', 'C00082', 'C00811'], ['R02950', 'C00811', 'C01197'], ['R03366', 'C01197', 'C01494'], ['R05700', 'C01494', 'C02666'], ['R02193', 'C02666', 'C00406'], ['R06584', 'C00406', 'C12203'], ['R06578', 'C12203', 'C00411'], ['R02221', 'C00411', 'C00482'], ['R10299', 'C00482', 'C01175'], ['R10299', 'C01175', 'C16312'], ['R07911', 'C16312', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是7---[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 4th chromsome---
+=====> after trim_chrom:  长度是7---[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 5th chromsome---
+=====> after trim_chrom:  长度是12---[['R07212', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R07826', 'C01197', 'C00811'], ['R02253', 'C00811', 'C00423'], ['R01426', 'C00423', 'C00180'], ['R08838', 'C00180', 'C00805'], ['R07709', 'C00805', 'C00628'], ['R02589', 'C00628', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 6th chromsome---
+=====> after trim_chrom:  长度是10---[['R12540', 'C00082', 'C05650'], ['R12541', 'C05650', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R13082', 'C10447', 'C22567'], ['R13082', 'C22567', 'C02183'], ['R04297', 'C02183', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是9---[['R01795', 'C00082', 'C00079'], ['R11918', 'C00079', 'C00601'], ['R02537', 'C00601', 'C07086'], ['R06790', 'C07086', 'C00642'], ['R02514', 'C00642', 'C00544'], ['R08782', 'C00544', 'C17570'], ['R10709', 'C17570', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+--This is the 7th chromsome---
+=====> after trim_chrom:  长度是9---[['R00734', 'C00082', 'C00025'], ['R02237', 'C00025', 'C00415'], ['R01670', 'C00415', 'C00239'], ['R01663', 'C00239', 'C00365'], ['R02101', 'C00365', 'C00364'], ['R02101', 'C00364', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是10---[['R00031', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R01943', 'C01197', 'C00323'], ['R07436', 'C00323', 'C00223'], ['R08796', 'C00223', 'C17744'], ['R08801', 'C17744', 'C17745'], ['R08803', 'C17745', 'C17746'], ['R08797', 'C17746', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 8th chromsome---
+=====> after trim_chrom:  长度是22---[['R01815', 'C00082', 'C00268'], ['R01815', 'C00268', 'C00272'], ['R01813', 'C00272', 'C04244'], ['R04285', 'C04244', 'C03684'], ['R04286', 'C03684', 'C04895'], ['R04620', 'C04895', 'C04874'], ['R04621', 'C04874', 'C05925'], ['R11718', 'C05925', 'C01300'], ['R03066', 'C01300', 'C00921'], ['R02237', 'C00921', 'C00415'], ['R02101', 'C00415', 'C00365'], ['R02102', 'C00365', 'C00526'], ['R02485', 'C00526', 'C00881'], ['R01666', 'C00881', 'C00239'], ['R01669', 'C00239', 'C03997'], ['R01669', 'C03997', 'C00143'], ['R01224', 'C00143', 'C00440'], ['R09271', 'C00440', 'C05616'], ['R03551', 'C05616', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是27---[['R00735', 'C00082', 'C02993'], ['R00735', 'C02993', 'C00062'], ['R01989', 'C00062', 'C00077'], ['R02282', 'C00077', 'C00025'], ['R04029', 'C00025', 'C02727'], ['R00458', 'C02727', 'C00047'], ['R00460', 'C00047', 'C00739'], ['R13034', 'C00739', 'C03239'], ['R04174', 'C03239', 'C05548'], ['R04142', 'C05548', 'C03087'], ['R02276', 'C03087', 'C00431'], ['R02274', 'C00431', 'C03273'], ['R10981', 'C03273', 'C02804'], ['R04057', 'C02804', 'C00033'], ['R05508', 'C00033', 'C00186'], ['R13050', 'C00186', 'C00022'], ['R00217', 'C00022', 'C00036'], ['R00350', 'C00036', 'C04115'], ['R04399', 'C04115', 'C04324'], ['R04453', 'C04324', 'C04484'], ['R04489', 'C04484', 'C05375'], ['R04279', 'C05375', 'C03671'], ['R04280', 'C03671', 'C05616'], ['R09271', 'C05616', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是5---[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 9th chromsome---
+=====> after trim_chrom:  长度是13---[['R02078', 'C00082', 'C00355'], ['R01815', 'C00355', 'C00272'], ['R07213', 'C00272', 'C00643'], ['R12542', 'C00643', 'C00078'], ['R12151', 'C00078', 'C05235'], ['R02528', 'C05235', 'C00546'], ['R02529', 'C00546', 'C01888'], ['R03758', 'C01888', 'C03508'], ['R00371', 'C03508', 'C00037'], ['R08195', 'C00037', 'C00820'], ['R08195', 'C00820', 'C00084'], ['R12302', 'C00084', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+=====> after trim_chrom:  长度是4---[['R00736', 'C00082', 'C00483'], ['R02385', 'C00483', 'C02717'], ['R02385', 'C02717', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是10---[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00817', 'C00090', 'C02480'], ['R03959', 'C02480', 'C04105'], ['R04260', 'C04105', 'C03586'], ['R03470', 'C03586', 'C01278'], ['R03307', 'C01278', 'C01163'], ['R01631', 'C01163', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 10th chromsome---
+=====> after trim_chrom:  长度是10---[['R00728', 'C00082', 'C00022'], ['R10487', 'C00022', 'C00026'], ['R05228', 'C00026', 'C03112'], ['R05230', 'C03112', 'C06568'], ['R05302', 'C06568', 'C06569'], ['R05303', 'C06569', 'C00021'], ['R08803', 'C00021', 'C17745'], ['R08803', 'C17745', 'C17746'], ['R08797', 'C17746', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是14---[['R03539', 'C00082', 'C02515'], ['R03973', 'C02515', 'C01060'], ['R03953', 'C01060', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R03465', 'C00022', 'C01275'], ['R03466', 'C01275', 'C03203'], ['R07657', 'C03203', 'C16149'], ['R07713', 'C16149', 'C03057'], ['R05643', 'C03057', 'C01606'], ['R03630', 'C01606', 'C04783'], ['R05275', 'C04783', 'C03233'], ['R01635', 'C03233', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 11th chromsome---
+=====> after trim_chrom:  长度是7---[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 12th chromsome---
+=====> after trim_chrom:  长度是11---[['R02078', 'C00082', 'C00355'], ['R08827', 'C00355', 'C08543'], ['R08828', 'C08543', 'C17753'], ['R08829', 'C17753', 'C08539'], ['R08822', 'C08539', 'C08540'], ['R08823', 'C08540', 'C08552'], ['R08823', 'C08552', 'C17759'], ['R08839', 'C17759', 'C01494'], ['R05744', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是23---[['R09830', 'C00082', 'C01179'], ['R03339', 'C01179', 'C03964'], ['R08766', 'C03964', 'C00811'], ['R12534', 'C00811', 'C01744'], ['R02901', 'C01744', 'C00774'], ['R13073', 'C00774', 'C00509'], ['R02444', 'C00509', 'C00974'], ['R03124', 'C00974', 'C01617'], ['R03636', 'C01617', 'C05906'], ['R05036', 'C05906', 'C05905'], ['R06535', 'C05905', 'C08604'], ['R10261', 'C08604', 'C08639'], ['R06545', 'C08639', 'C12096'], ['R06547', 'C12096', 'C12095'], ['R06544', 'C12095', 'C00223'], ['R07929', 'C00223', 'C16370'], ['R07929', 'C16370', 'C12138'], ['R07903', 'C12138', 'C16315'], ['R07903', 'C16315', 'C02199'], ['R06802', 'C02199', 'C12644'], ['R06802', 'C12644', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是12---[['R09254', 'C00082', 'C01179'], ['R03339', 'C01179', 'C03964'], ['R08766', 'C03964', 'C00811'], ['R07826', 'C00811', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R06582', 'C10434', 'C02947'], ['R02416', 'C02947', 'C00223'], ['R08805', 'C00223', 'C17740'], ['R08805', 'C17740', 'C00083'], ['R11445', 'C00083', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+=====> after trim_chrom:  长度是11---[['R12540', 'C00082', 'C00079'], ['R00693', 'C00079', 'C03519'], ['R00693', 'C03519', 'C00024'], ['R07253', 'C00024', 'C02657'], ['R03567', 'C02657', 'C01467'], ['R07665', 'C01467', 'C03351'], ['R04136', 'C03351', 'C03067'], ['R07667', 'C03067', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是9---[['R06626', 'C00082', 'C12323'], ['R10880', 'C12323', 'C17355'], ['R10903', 'C17355', 'C01739'], ['R03072', 'C01739', 'C00170'], ['R10529', 'C00170', 'C00223'], ['R07927', 'C00223', 'C16368'], ['R07927', 'C16368', 'C12137'], ['R10296', 'C12137', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是6---[['R10246', 'C00082', 'C01468'], ['R02675', 'C01468', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 13th chromsome---
+=====> after trim_chrom:  长度是12---[['R00729', 'C00082', 'C01179'], ['R03337', 'C01179', 'C03964'], ['R08766', 'C03964', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01297', 'C00156', 'C00530'], ['R06851', 'C00530', 'C02814'], ['R11348', 'C02814', 'C01751'], ['R05250', 'C01751', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 14th chromsome---
+=====> after trim_chrom:  长度是17---[['R12540', 'C00082', 'C00079'], ['R11918', 'C00079', 'C00601'], ['R02536', 'C00601', 'C07086'], ['R06791', 'C07086', 'C05593'], ['R02515', 'C05593', 'C00544'], ['R02514', 'C00544', 'C00642'], ['R02697', 'C00642', 'C03765'], ['R04305', 'C03765', 'C06160'], ['R04305', 'C06160', 'C03758'], ['R02535', 'C03758', 'C00547'], ['R02532', 'C00547', 'C05577'], ['R04882', 'C05577', 'C05580'], ['R04887', 'C05580', 'C00021'], ['R11445', 'C00021', 'C00083'], ['R08806', 'C00083', 'C17741'], ['R08806', 'C17741', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是12---[['R07212', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R13082', 'C10447', 'C22567'], ['R13072', 'C22567', 'C05631'], ['R03640', 'C05631', 'C01617'], ['R02160', 'C01617', 'C00389'], ['R02157', 'C00389', 'C04443'], ['R05323', 'C04443', 'C01265'], ['R03456', 'C01265', 'C00021'], ['R06578', 'C00021', 'C12203'], ['R06584', 'C12203', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+--This is the 15th chromsome---
+-----Sampling Done-----
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R12622']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00022', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '2.6.1.119']
+Min-count: 4
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R12622
+最大生物量：0.0
+This pathway is not feasible!
+Length: 2
+Net_count: 2.85
+Net_Tox: 0.3211576936513508
+Network_yield: -999
+Gibbs: -21.726868251782303
+Fitness: 296.2738578883738
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R05666', 'R03560', 'R03608', 'R03566', 'R07665', 'R04136', 'R07667', 'R01628', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C01455', 'C01542', 'C02923', 'C01467', 'C03351', 'C03067', 'C00587', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.14.13.236', '1.14.13.243', '1.14.13.243', '1.14.13.7', '1.14.13.-', '1.1.1.97', '1.2.1.64', '1.14.13.23', '2.1.1.382', '1.2.3.9']
+Min-count: 25
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R05666
+添加反应：R03560
+添加反应：R03608
+添加反应：R03566
+添加反应：R07665
+添加反应：R04136
+添加反应：R07667
+添加反应：R01628
+添加反应：R07668
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 11
+Net_count: 15.311944444444446
+Net_Tox: 14.957592690297133
+Network_yield: -999
+Gibbs: -9.816825535316603
+Fitness: 305.3217367643294
+
+get_network_totalReactions -> original-rxn_list:
+['R01795', 'R08463', 'R09089', 'R09088', 'R01295', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C08301', 'C17268', 'C00180', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '2.6.1.-', '1.14.14.92', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 19
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R01795
+添加反应：R08463
+添加反应：R09089
+添加反应：R09088
+添加反应：R01295
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.6031746031746
+Calculated yield is negative, returning -999
+Length: 8
+Net_count: 11.940357142857142
+Net_Tox: 20.831170724822282
+Network_yield: -999
+Gibbs: 58.061409679891135
+Fitness: 319.0606232237998
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01294', 'R01298', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.2.1.7', '1.14.13.2', '2.1.1.382', '1.2.3.9']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01294
+添加反应：R01298 4HBHYOX
+添加反应：R07668
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 7
+Net_count: 9.8125
+Net_Tox: 13.648074874135345
+Network_yield: -999
+Gibbs: -18.87072245972981
+Fitness: 301.5992204828811
+
+get_network_totalReactions -> original-rxn_list:
+['R00734', 'R06626', 'R02672', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+--- 4 expanding the path into a network
+--- 5 expanding the path into a network
+--- 6 expanding the path into a network
+--- 7 expanding the path into a network
+--- 8 expanding the path into a network
+--- 9 expanding the path into a network
+--- 10 expanding the path into a network
+--- 11 expanding the path into a network
+--- 12 expanding the path into a network
+--- 13 expanding the path into a network
+--- 14 expanding the path into a network
+--- 15 expanding the path into a network
+For this path,best_enzyme_pool:
+['2.6.1.1', '2.6.1.103', '4.1.1.7', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+反应已存在：R00734 TYRTA
+添加反应：R06626
+添加反应：R02672
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609207
+理论产率 = 0.4657690202517793 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 7.5511904761904765
+Net_Tox: 6.62473194708482
+Network_yield: 0.4657690202517793
+Gibbs: -9.401476535243589
+Fitness: 1.5702775191498555
+
+get_network_totalReactions -> original-rxn_list:
+['R07212', 'R08846', 'R11206', 'R07826', 'R02253', 'R01426', 'R08838', 'R07709', 'R02589', 'R01628', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00811', 'C00423', 'C00180', 'C00805', 'C00628', 'C00587', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.2', '4.3.1.22', '2.8.3.23', '1.14.13.-', '1.14.14.91', '1.14.13.-', '1.14.13.172', '1.14.13.24', '1.14.13.23', '2.1.1.382', '1.2.1.67']
+Min-count: 38
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R07212
+添加反应：R08846
+添加反应：R11206
+添加反应：R07826
+添加反应：R02253
+添加反应：R01426
+添加反应：R08838
+添加反应：R07709
+添加反应：R02589
+添加反应：R01628
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 12
+Net_count: 22.50185606060606
+Net_Tox: 21.18750451540581
+Network_yield: -999
+Gibbs: -0.8596983009481676
+Fitness: 310.5161180610733
+
+get_network_totalReactions -> original-rxn_list:
+['R01795', 'R11918', 'R02537', 'R06790', 'R02514', 'R08782', 'R10709', 'R07240', 'R12302']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C00601', 'C07086', 'C00642', 'C00544', 'C17570', 'C00021', 'C10469', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '4.1.1.109', '1.2.1.5', '1.14.13.18', '2.5.1.117', '2.1.1.295', '2.1.1.146', '1.13.11.88']
+Min-count: 23
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R01795
+添加反应：R11918
+添加反应：R02537 ALDD19x_P
+添加反应：R06790
+添加反应：R02514
+添加反应：R08782
+添加反应：R10709
+添加反应：R07240
+添加反应：R12302
+最大生物量：0.0
+This pathway is not feasible!
+Length: 9
+Net_count: 14.185
+Net_Tox: 18.694716939801374
+Network_yield: -999
+Gibbs: -7.733326612133328
+Fitness: 306.1477780655336
+
+get_network_totalReactions -> original-rxn_list:
+['R00031', 'R08846', 'R11206', 'R01943', 'R07436', 'R08796', 'R08801', 'R08803', 'R08797', 'R12566']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00323', 'C00223', 'C17744', 'C17745', 'C17746', 'C00406', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.10.3.1', '4.3.1.22', '2.8.3.23', '6.2.1.12', '1.14.13.-', '2.1.1.-', '4.1.2.61']
+Min-count: 40
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00031
+添加反应：R08846
+添加反应：R11206
+添加反应：R01943 CAFFCOA
+添加反应：R07436
+添加反应：R08796
+添加反应：R08801
+添加反应：R08803
+添加反应：R08797
+添加反应：R12566
+最大生物量：0.0
+This pathway is not feasible!
+Length: 10
+Net_count: 23.85167748917749
+Net_Tox: 9.077239286208194
+Network_yield: -999
+Gibbs: -17.48843738023999
+Fitness: 305.1732636279469
+
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00822', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '4.1.1.63', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00822
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.297109826589619
+Calculated yield is negative, returning -999
+Length: 5
+Net_count: 7.6225000000000005
+Net_Tox: 7.032056373273093
+Network_yield: -999
+Gibbs: -11.477890682153287
+Fitness: 301.09758313822397
+
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00817', 'R03959', 'R04260', 'R03470', 'R03307', 'R01631', 'R05274', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C02480', 'C04105', 'C03586', 'C01278', 'C01163', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '1.13.11.1', '5.5.1.1', '5.3.3.4', '4.1.1.44', '5.5.1.2', '1.13.11.3', '1.14.13.82', '1.2.3.9']
+Min-count: 18
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00817 CATDOX
+添加反应：R03959 MUCCYCI
+添加反应：R04260 MUCLI
+添加反应：R03470 CMLDC
+添加反应：R03307 MUCCY_kt
+添加反应：R01631 PCADYOX
+添加反应：R05274 VNTDM
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 10
+Net_count: 11.555
+Net_Tox: 4.016783350991185
+Network_yield: -999
+Gibbs: -7.338938132641693
+Fitness: 302.5020690436699
+
+get_network_totalReactions -> original-rxn_list:
+['R03539', 'R03973', 'R03953', 'R08698', 'R03465', 'R03466', 'R07657', 'R07713', 'R05643', 'R03630', 'R05275', 'R01635', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C02515', 'C01060', 'C02218', 'C00022', 'C01275', 'C03203', 'C16149', 'C03057', 'C01606', 'C04783', 'C03233', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.11.1.8', '1.11.1.8', '1.11.1.8', '4.1.2.34', '1.13.11.38', '1.13.11.38', '4.1.2.34', '1.2.1.78', '1.14.12.7', '1.3.1.64', '4.1.1.55', '2.1.1.382', '1.2.1.67']
+Min-count: 22
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R03539
+添加反应：R03973
+添加反应：R03953
+添加反应：R08698 2AMACHYD
+添加反应：R03465
+添加反应：R03466
+添加反应：R07657
+添加反应：R07713
+添加反应：R05643
+添加反应：R03630
+添加反应：R05275
+添加反应：R01635
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 14
+Net_count: 13.994505494505495
+Net_Tox: 0.8520087220469716
+Network_yield: -999
+Gibbs: -9.626998544594276
+Fitness: 302.1433536838422
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01303', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.14.99.-', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01303
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.603174603174564
+理论产率 = 0.16015211640211582 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 9.870833333333334
+Net_Tox: 17.69527900380978
+Network_yield: 0.16015211640211582
+Gibbs: 57.500411627639295
+Fitness: 17.95234249136918
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R02675', 'R01303', 'R01296', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.14.99.-', '1.14.13.33', '2.1.1.341', '1.2.1.67']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R02675
+添加反应：R01303
+添加反应：R01296
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.865995352439985
+Calculated yield is negative, returning -999
+Length: 6
+Net_count: 9.942499999999999
+Net_Tox: 15.960402849544783
+Network_yield: -999
+Gibbs: 57.500411627639295
+Fitness: 317.3749128954368
+
+get_network_totalReactions -> original-rxn_list:
+['R00729', 'R03337', 'R08766', 'R01308', 'R01297', 'R06851', 'R11348', 'R05250', 'R03247', 'R01637', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03964', 'C00811', 'C00156', 'C00530', 'C02814', 'C01751', 'C01108', 'C01424', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.4.3.2', '1.1.1.110', '4.2.1.-', '1.14.13.64', '1.14.13.-', '1.14.14.27', '4.1.1.59', '2.1.1.341', '1.2.1.67']
+Min-count: 26
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00729 TYROX
+添加反应：R03337
+添加反应：R08766 T4HCINNMFM
+添加反应：R01308
+添加反应：R01297
+添加反应：R06851
+添加反应：R11348
+添加反应：R05250
+添加反应：R03247
+添加反应：R01637
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：7.800259403372204
+理论产率 = 0.1181646439379897 mmol-Dgly/mmol-glc
+Length: 12
+Net_count: 15.818214285714285
+Net_Tox: 8.987740694180369
+Network_yield: 0.1181646439379897
+Gibbs: -1.3666607397570374
+Fitness: 6.234230883417555
+
+get_network_totalReactions -> original-rxn_list:
+['R07212', 'R08846', 'R13082', 'R13072', 'R03640', 'R02160', 'R02157', 'R05323', 'R03456', 'R06578', 'R06584', 'R12566']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C22567', 'C05631', 'C01617', 'C00389', 'C04443', 'C01265', 'C00021', 'C12203', 'C00406', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.2', '4.3.1.22', '3.7.1.4', '1.14.11.9', '1.14.20.6', '2.1.1.76', '2.1.1.82', '2.1.1.83', '2.1.1.104', '4.1.2.61']
+Min-count: 31
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R07212
+添加反应：R08846
+添加反应：R13082
+添加反应：R13072
+添加反应：R03640
+添加反应：R02160
+添加反应：R02157
+添加反应：R05323
+添加反应：R03456
+添加反应：R06578
+添加反应：R06584
+添加反应：R12566
+最大生物量：0.0
+This pathway is not feasible!
+Length: 12
+Net_count: 18.99307692307692
+Net_Tox: 12.881665681668174
+Network_yield: -999
+Gibbs: -8.51789312997353
+Fitness: 306.270677587262
+
+--- Iteration 1 ---
+=====> Mutation of the 1th iteration, 1th particle <=====
+=====> after trim_chrom:  长度是1---[['R12622', 'C00022', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R12622']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00022', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '2.6.1.119']
+Min-count: 4
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R12622
+最大生物量：0.0
+This pathway is not feasible!
+Length: 2
+Net_count: 2.85
+Net_Tox: 0.3211576936513508
+Network_yield: -999
+Gibbs: -21.726868251782303
+Fitness: 296.2738578883738
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00728', 'C00082', 'C00022'], ['R12622', 'C00022', 'C00755']]
+Chromosomes after crossover is :
+[['R00728', 'C00082', 'C00022'], ['R12622', 'C00022', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R12622']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00022', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '2.6.1.119']
+Min-count: 4
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R12622
+最大生物量：0.0
+This pathway is not feasible!
+Length: 2
+Net_count: 2.85
+Net_Tox: 0.3211576936513508
+Network_yield: -999
+Gibbs: -21.726868251782303
+Fitness: 296.2738578883738
+
+----- Crossover with global -----
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R12622']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00022', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '2.6.1.119']
+Min-count: 4
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R12622
+最大生物量：0.0
+This pathway is not feasible!
+Length: 2
+Net_count: 2.85
+Net_Tox: 0.3211576936513508
+Network_yield: -999
+Gibbs: -21.726868251782303
+Fitness: 296.2738578883738
+
+=====> Mutation of the 1th iteration, 2th particle <=====
+=====> after trim_chrom:  长度是10---[['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R06886', 'C00633', 'C13632'], ['R06886', 'C13632', 'C10700'], ['R06892', 'C10700', 'C13636'], ['R06893', 'C13636', 'C00530'], ['R01299', 'C00530', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是5---[['R02675', 'C01468', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R02675', 'R01294', 'R01296', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.2.1.7', '1.14.13.33', '2.1.1.341', '1.2.1.67']
+Min-count: 17
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R02675
+添加反应：R01294
+添加反应：R01296
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.86599535243999
+Calculated yield is negative, returning -999
+Length: 6
+Net_count: 10.442499999999999
+Net_Tox: 17.69527900380978
+Network_yield: -999
+Gibbs: -16.143808176012286
+Fitness: 303.1430441655595
+
+=====> Mutation of the 1th iteration, 3th particle <=====
+=====> after trim_chrom:  长度是4---[['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R01795', 'R08463', 'R09089', 'R09088', 'R01295', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C08301', 'C17268', 'C00180', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '2.6.1.-', '1.14.14.92', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 19
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R01795
+添加反应：R08463
+添加反应：R09089
+添加反应：R09088
+添加反应：R01295
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.6031746031746
+Calculated yield is negative, returning -999
+Length: 8
+Net_count: 11.940357142857142
+Net_Tox: 20.831170724822282
+Network_yield: -999
+Gibbs: 58.061409679891135
+Fitness: 319.0606232237998
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R01795', 'C00082', 'C00079'], ['R08463', 'C00079', 'C08301'], ['R09089', 'C08301', 'C17268'], ['R09088', 'C17268', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R01795', 'C00082', 'C00079'], ['R08463', 'C00079', 'C08301'], ['R09089', 'C08301', 'C17268'], ['R09088', 'C17268', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R01795', 'R08463', 'R09089', 'R09088', 'R01295', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C08301', 'C17268', 'C00180', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '2.6.1.-', '1.14.14.92', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 19
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R01795
+添加反应：R08463
+添加反应：R09089
+添加反应：R09088
+添加反应：R01295
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.6031746031746
+Calculated yield is negative, returning -999
+Length: 8
+Net_count: 11.940357142857142
+Net_Tox: 20.831170724822282
+Network_yield: -999
+Gibbs: 58.061409679891135
+Fitness: 319.0606232237998
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R01795', 'C00082', 'C00079'], ['R08463', 'C00079', 'C08301'], ['R09089', 'C08301', 'C17268'], ['R09088', 'C17268', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R01795', 'C00082', 'C00079'], ['R08463', 'C00079', 'C08301'], ['R09089', 'C08301', 'C17268'], ['R09088', 'C17268', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R01795', 'R08463', 'R09089', 'R09088', 'R01295', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C08301', 'C17268', 'C00180', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '2.6.1.-', '1.14.14.92', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 19
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R01795
+添加反应：R08463
+添加反应：R09089
+添加反应：R09088
+添加反应：R01295
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.22643678160923
+Calculated yield is negative, returning -999
+Length: 8
+Net_count: 11.940357142857142
+Net_Tox: 20.831170724822282
+Network_yield: -999
+Gibbs: 58.061409679891135
+Fitness: 319.0606232237998
+
+=====> Mutation of the 1th iteration, 4th particle <=====
+=====> after trim_chrom:  长度是10---[['R12134', 'C17467', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01295', 'C00156', 'C00180'], ['R01424', 'C00180', 'C01586'], ['R02452', 'C01586', 'C00512'], ['R05316', 'C00512', 'C02949'], ['R08767', 'C02949', 'C00223'], ['R08767', 'C00223', 'C00024'], ['R05773', 'C00024', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R12133', 'C17467', 'C01468'], ['R07663', 'C01468', 'C06677'], ['R05281', 'C06677', 'C06678'], ['R05271', 'C06678', 'C06679'], ['R05272', 'C06679', 'C02236'], ['R01636', 'C02236', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R07663', 'R05281', 'R05271', 'R05272', 'R01636', 'R05274', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C06677', 'C06678', 'C06679', 'C02236', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.14.13.-', '1.14.13.-', '1.1.1.257', '1.2.1.62', '1.14.12.8', '1.14.13.82', '1.2.3.9']
+Min-count: 18
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R07663
+添加反应：R05281
+添加反应：R05271
+添加反应：R05272
+添加反应：R01636
+添加反应：R05274 VNTDM
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 8
+Net_count: 11.005357142857143
+Net_Tox: 11.913198719870348
+Network_yield: -999
+Gibbs: -12.077827049001456
+Fitness: 302.9686814770309
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01294', 'R01298', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.2.1.7', '1.14.13.2', '2.1.1.382', '1.2.3.9']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01294
+添加反应：R01298 4HBHYOX
+添加反应：R07668
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 7
+Net_count: 9.8125
+Net_Tox: 13.648074874135345
+Network_yield: -999
+Gibbs: -18.87072245972981
+Fitness: 301.5992204828811
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609179
+理论产率 = 0.18467013888888864 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 9.870833333333334
+Net_Tox: 17.69527900380978
+Network_yield: 0.18467013888888864
+Gibbs: -18.45974718203551
+Fitness: 2.7529553226881878
+
+=====> Mutation of the 1th iteration, 5th particle <=====
+=====> after trim_chrom:  长度是1---[['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R00734', 'R06626', 'R02672', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+--- 4 expanding the path into a network
+--- 5 expanding the path into a network
+--- 6 expanding the path into a network
+--- 7 expanding the path into a network
+--- 8 expanding the path into a network
+--- 9 expanding the path into a network
+--- 10 expanding the path into a network
+--- 11 expanding the path into a network
+--- 12 expanding the path into a network
+--- 13 expanding the path into a network
+--- 14 expanding the path into a network
+--- 15 expanding the path into a network
+For this path,best_enzyme_pool:
+['2.6.1.1', '2.6.1.103', '4.1.1.7', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+反应已存在：R00734 TYRTA
+添加反应：R06626
+添加反应：R02672
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609207
+理论产率 = 0.4657690202517793 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 7.5511904761904765
+Net_Tox: 6.62473194708482
+Network_yield: 0.4657690202517793
+Gibbs: -9.401476535243589
+Fitness: 1.5702775191498555
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00734', 'R06626', 'R02672', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+--- 4 expanding the path into a network
+--- 5 expanding the path into a network
+--- 6 expanding the path into a network
+--- 7 expanding the path into a network
+--- 8 expanding the path into a network
+--- 9 expanding the path into a network
+--- 10 expanding the path into a network
+--- 11 expanding the path into a network
+--- 12 expanding the path into a network
+--- 13 expanding the path into a network
+--- 14 expanding the path into a network
+--- 15 expanding the path into a network
+For this path,best_enzyme_pool:
+['2.6.1.1', '2.6.1.103', '4.1.1.7', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+反应已存在：R00734 TYRTA
+添加反应：R06626
+添加反应：R02672
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609207
+理论产率 = 0.4657690202517793 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 7.5511904761904765
+Net_Tox: 6.62473194708482
+Network_yield: 0.4657690202517793
+Gibbs: -9.401476535243589
+Fitness: 1.5702775191498555
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00734', 'R06626', 'R02672', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+--- 4 expanding the path into a network
+--- 5 expanding the path into a network
+--- 6 expanding the path into a network
+--- 7 expanding the path into a network
+--- 8 expanding the path into a network
+--- 9 expanding the path into a network
+--- 10 expanding the path into a network
+--- 11 expanding the path into a network
+--- 12 expanding the path into a network
+--- 13 expanding the path into a network
+--- 14 expanding the path into a network
+--- 15 expanding the path into a network
+For this path,best_enzyme_pool:
+['2.6.1.1', '2.6.1.103', '4.1.1.7', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+反应已存在：R00734 TYRTA
+添加反应：R06626
+添加反应：R02672
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609207
+理论产率 = 0.4657690202517793 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 7.5511904761904765
+Net_Tox: 6.62473194708482
+Network_yield: 0.4657690202517793
+Gibbs: -9.401476535243589
+Fitness: 1.5702775191498555
+
+=====> Mutation of the 1th iteration, 6th particle <=====
+=====> after trim_chrom:  长度是5---[['R08838', 'C00805', 'C00180'], ['R01295', 'C00180', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R07212', 'R08846', 'R11206', 'R07826', 'R02253', 'R01426', 'R01295', 'R01298', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00811', 'C00423', 'C00180', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.2', '4.3.1.22', '2.8.3.23', '1.14.13.-', '1.14.14.91', '1.14.14.92', '1.14.13.2', '2.1.1.382', '1.2.1.67']
+Min-count: 36
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R07212
+添加反应：R08846
+添加反应：R11206
+添加反应：R07826
+添加反应：R02253
+添加反应：R01426
+添加反应：R01295
+添加反应：R01298 4HBHYOX
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 10
+Net_count: 21.113095238095237
+Net_Tox: 21.187504515405802
+Network_yield: -999
+Gibbs: -0.8596983009481676
+Fitness: 310.09948981432007
+
+=====> Mutation of the 1th iteration, 7th particle <=====
+=====> after trim_chrom:  长度是9---[['R12540', 'C00079', 'C00082'], ['R13031', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R02950', 'C01197', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R13031', 'R08846', 'R11206', 'R02950', 'R01308', 'R01298', 'R05274', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00811', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.-.-', '4.3.1.22', '2.8.3.23', '1.14.18.1', '1.14.13.2', '1.14.13.82', '1.2.1.67']
+Min-count: 25
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R13031
+添加反应：R08846
+添加反应：R11206
+添加反应：R02950
+添加反应：R01308
+添加反应：R01298 4HBHYOX
+添加反应：R05274 VNTDM
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 8
+Net_count: 15.655357142857142
+Net_Tox: 10.693731319151865
+Network_yield: -999
+Gibbs: -1.3666607397570374
+Fitness: 306.26202125873607
+
+----- Crossover with local -----
+get_network_totalReactions -> original-rxn_list:
+['R13031', 'R08846', 'R11206', 'R02950', 'R01308', 'R01298', 'R05274', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00811', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.-.-', '4.3.1.22', '2.8.3.23', '1.14.18.1', '1.14.13.2', '1.14.13.82', '1.2.1.67']
+Min-count: 25
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R13031
+添加反应：R08846
+添加反应：R11206
+添加反应：R02950
+添加反应：R01308
+添加反应：R01298 4HBHYOX
+添加反应：R05274 VNTDM
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 8
+Net_count: 15.655357142857142
+Net_Tox: 10.693731319151865
+Network_yield: -999
+Gibbs: -1.3666607397570374
+Fitness: 306.26202125873607
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R13031', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R02950', 'C01197', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R13031', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R02950', 'C01197', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R13031', 'R08846', 'R11206', 'R02950', 'R01308', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C00811', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.-.-', '4.3.1.22', '2.8.3.23', '1.14.18.1', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 27
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R13031
+添加反应：R08846
+添加反应：R11206
+添加反应：R02950
+添加反应：R01308
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609186
+Calculated yield is negative, returning -999
+Length: 8
+Net_count: 16.705357142857142
+Net_Tox: 14.740935448826303
+Network_yield: -999
+Gibbs: -1.3666607397570374
+Fitness: 307.386462084671
+
+=====> Mutation of the 1th iteration, 8th particle <=====
+=====> after trim_chrom:  长度是18---[['R11206', 'C10447', 'C01197'], ['R02950', 'C01197', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R01636', 'C00230', 'C02236'], ['R05272', 'C02236', 'C06679'], ['R05271', 'C06679', 'C06678'], ['R05281', 'C06678', 'C06677'], ['R05294', 'C06677', 'C06730'], ['R03568', 'C06730', 'C01468'], ['R07312', 'C01468', 'C00642'], ['R02695', 'C00642', 'C03765'], ['R11917', 'C03765', 'C00082'], ['R09830', 'C00082', 'C01179'], ['R09254', 'C01179', 'C00022'], ['R08197', 'C00022', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R13082', 'C10447', 'C22567'], ['R13072', 'C22567', 'C05631'], ['R07991', 'C05631', 'C15525'], ['R07988', 'C15525', 'C00323'], ['R07873', 'C00323', 'C16297'], ['R07875', 'C16297', 'C12640'], ['R06798', 'C12640', 'C12137'], ['R06801', 'C12137', 'C12642'], ['R07884', 'C12642', 'C16288'], ['R07884', 'C16288', 'C00083'], ['R08806', 'C00083', 'C17741'], ['R08806', 'C17741', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R13082', 'C10447', 'C22567'], ['R13082', 'C22567', 'C02183'], ['R04297', 'C02183', 'C01108'], ['R05250', 'C01108', 'C01751'], ['R05249', 'C01751', 'C02814'], ['R01629', 'C02814', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是7---[['R13082', 'C10447', 'C22567'], ['R13082', 'C22567', 'C02183'], ['R04297', 'C02183', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是23---[['R08846', 'C10447', 'C00355'], ['R07212', 'C00355', 'C00082'], ['R07211', 'C00082', 'C00079'], ['R00694', 'C00079', 'C00166'], ['R00695', 'C00166', 'C00036'], ['R07165', 'C00036', 'C00049'], ['R00489', 'C00049', 'C00099'], ['R00907', 'C00099', 'C00041'], ['R00401', 'C00041', 'C00133'], ['R00399', 'C00133', 'C03341'], ['R04201', 'C03341', 'C03943'], ['R02461', 'C03943', 'C00515'], ['R00672', 'C00515', 'C00077'], ['R01398', 'C00077', 'C00327'], ['R09107', 'C00327', 'C15532'], ['R07245', 'C15532', 'C00437'], ['R02283', 'C00437', 'C00025'], ['R06586', 'C00025', 'C00026'], ['R10741', 'C00026', 'C11755'], ['R10741', 'C11755', 'C17399'], ['R10746', 'C17399', 'C00024'], ['R05773', 'C00024', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是12---[['R13082', 'C10447', 'C22567'], ['R13072', 'C22567', 'C05631'], ['R03640', 'C05631', 'C01617'], ['R05723', 'C01617', 'C05906'], ['R05036', 'C05906', 'C05905'], ['R06535', 'C05905', 'C08604'], ['R07928', 'C08604', 'C16369'], ['R07928', 'C16369', 'C00323'], ['R07926', 'C00323', 'C16367'], ['R07926', 'C16367', 'C12138'], ['R10297', 'C12138', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是7---[['R11206', 'C10447', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R07433', 'C10434', 'C00493'], ['R06847', 'C00493', 'C02637'], ['R01627', 'C02637', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R00031', 'R08846', 'R11206', 'R10701', 'R07433', 'R06847', 'R01627', 'R05274', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C10434', 'C00493', 'C02637', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.10.3.1', '4.3.1.22', '2.8.3.23', '3.1.1.-', '2.3.1.133', '1.1.1.24', '4.2.1.118', '1.14.13.82', '1.2.3.9']
+Min-count: 19
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00031
+添加反应：R08846
+添加反应：R11206
+添加反应：R10701
+添加反应：R07433
+添加反应：R06847
+添加反应：R01627 DHSKDH
+添加反应：R05274 VNTDM
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 9
+Net_count: 12.445833333333335
+Net_Tox: 8.673495084987186
+Network_yield: -999
+Gibbs: -7.691700032720976
+Fitness: 303.6301090104532
+
+=====> Mutation of the 1th iteration, 9th particle <=====
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00822', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '4.1.1.63', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00822
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.297109826589619
+Calculated yield is negative, returning -999
+Length: 5
+Net_count: 7.6225000000000005
+Net_Tox: 7.032056373273093
+Network_yield: -999
+Gibbs: -11.477890682153287
+Fitness: 301.09758313822397
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00822', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '4.1.1.63', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00822
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.297109826589619
+Calculated yield is negative, returning -999
+Length: 5
+Net_count: 7.6225000000000005
+Net_Tox: 7.032056373273093
+Network_yield: -999
+Gibbs: -11.477890682153287
+Fitness: 301.09758313822397
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00728', 'C00082', 'C00146'], ['R11653', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00822', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '4.1.1.63', '2.1.1.341', '1.2.3.9']
+Min-count: 12
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00822
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.297109826589619
+Calculated yield is negative, returning -999
+Length: 5
+Net_count: 7.6225000000000005
+Net_Tox: 7.032056373273093
+Network_yield: -999
+Gibbs: -11.477890682153287
+Fitness: 301.09758313822397
+
+=====> Mutation of the 1th iteration, 10th particle <=====
+=====> after trim_chrom:  长度是3---[['R00822', 'C00090', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R00728', 'R11653', 'R00822', 'R05274', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.14.20', '4.1.1.63', '1.14.13.82', '1.2.3.9']
+Min-count: 10
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00728
+添加反应：R11653
+添加反应：R00822
+添加反应：R05274 VNTDM
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 5
+Net_count: 6.535
+Net_Tox: 2.984852243598657
+Network_yield: -999
+Gibbs: -13.706374554247251
+Fitness: 299.5161955378703
+
+=====> Mutation of the 1th iteration, 11th particle <=====
+get_network_totalReactions -> original-rxn_list:
+['R03539', 'R03973', 'R03953', 'R08698', 'R03465', 'R03466', 'R07657', 'R07713', 'R05643', 'R03630', 'R05275', 'R01635', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C02515', 'C01060', 'C02218', 'C00022', 'C01275', 'C03203', 'C16149', 'C03057', 'C01606', 'C04783', 'C03233', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.11.1.8', '1.11.1.8', '1.11.1.8', '4.1.2.34', '1.13.11.38', '1.13.11.38', '4.1.2.34', '1.2.1.78', '1.14.12.7', '1.3.1.64', '4.1.1.55', '2.1.1.382', '1.2.1.67']
+Min-count: 22
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R03539
+添加反应：R03973
+添加反应：R03953
+添加反应：R08698 2AMACHYD
+添加反应：R03465
+添加反应：R03466
+添加反应：R07657
+添加反应：R07713
+添加反应：R05643
+添加反应：R03630
+添加反应：R05275
+添加反应：R01635
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 14
+Net_count: 13.994505494505495
+Net_Tox: 0.8520087220469716
+Network_yield: -999
+Gibbs: -9.626998544594276
+Fitness: 302.1433536838422
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R03539', 'C00082', 'C02515'], ['R03973', 'C02515', 'C01060'], ['R03953', 'C01060', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R03465', 'C00022', 'C01275'], ['R03466', 'C01275', 'C03203'], ['R07657', 'C03203', 'C16149'], ['R07713', 'C16149', 'C03057'], ['R05643', 'C03057', 'C01606'], ['R03630', 'C01606', 'C04783'], ['R05275', 'C04783', 'C03233'], ['R01635', 'C03233', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R03539', 'C00082', 'C02515'], ['R03973', 'C02515', 'C01060'], ['R03953', 'C01060', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R03465', 'C00022', 'C01275'], ['R03466', 'C01275', 'C03203'], ['R07657', 'C03203', 'C16149'], ['R07713', 'C16149', 'C03057'], ['R05643', 'C03057', 'C01606'], ['R03630', 'C01606', 'C04783'], ['R05275', 'C04783', 'C03233'], ['R01635', 'C03233', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R03539', 'R03973', 'R03953', 'R08698', 'R03465', 'R03466', 'R07657', 'R07713', 'R05643', 'R03630', 'R05275', 'R01635', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C02515', 'C01060', 'C02218', 'C00022', 'C01275', 'C03203', 'C16149', 'C03057', 'C01606', 'C04783', 'C03233', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.11.1.8', '1.11.1.8', '1.11.1.8', '4.1.2.34', '1.13.11.38', '1.13.11.38', '4.1.2.34', '1.2.1.78', '1.14.12.7', '1.3.1.64', '4.1.1.55', '2.1.1.382', '1.2.1.67']
+Min-count: 22
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R03539
+添加反应：R03973
+添加反应：R03953
+添加反应：R08698 2AMACHYD
+添加反应：R03465
+添加反应：R03466
+添加反应：R07657
+添加反应：R07713
+添加反应：R05643
+添加反应：R03630
+添加反应：R05275
+添加反应：R01635
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 14
+Net_count: 13.994505494505495
+Net_Tox: 0.8520087220469716
+Network_yield: -999
+Gibbs: -9.626998544594276
+Fitness: 302.1433536838422
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R03539', 'C00082', 'C02515'], ['R03973', 'C02515', 'C01060'], ['R03953', 'C01060', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R03465', 'C00022', 'C01275'], ['R03466', 'C01275', 'C03203'], ['R07657', 'C03203', 'C16149'], ['R07713', 'C16149', 'C03057'], ['R05643', 'C03057', 'C01606'], ['R03630', 'C01606', 'C04783'], ['R05275', 'C04783', 'C03233'], ['R01635', 'C03233', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R03539', 'C00082', 'C02515'], ['R03973', 'C02515', 'C01060'], ['R03953', 'C01060', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R03465', 'C00022', 'C01275'], ['R03466', 'C01275', 'C03203'], ['R07657', 'C03203', 'C16149'], ['R07713', 'C16149', 'C03057'], ['R05643', 'C03057', 'C01606'], ['R03630', 'C01606', 'C04783'], ['R05275', 'C04783', 'C03233'], ['R01635', 'C03233', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R03539', 'R03973', 'R03953', 'R08698', 'R03465', 'R03466', 'R07657', 'R07713', 'R05643', 'R03630', 'R05275', 'R01635', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C02515', 'C01060', 'C02218', 'C00022', 'C01275', 'C03203', 'C16149', 'C03057', 'C01606', 'C04783', 'C03233', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.11.1.8', '1.11.1.8', '1.11.1.8', '4.1.2.34', '1.13.11.38', '1.13.11.38', '4.1.2.34', '1.2.1.78', '1.14.12.7', '1.3.1.64', '4.1.1.55', '2.1.1.341', '1.2.3.9']
+Min-count: 22
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R03539
+添加反应：R03973
+添加反应：R03953
+添加反应：R08698 2AMACHYD
+添加反应：R03465
+添加反应：R03466
+添加反应：R07657
+添加反应：R07713
+添加反应：R05643
+添加反应：R03630
+添加反应：R05275
+添加反应：R01635
+添加反应：R10136
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 14
+Net_count: 14.021428571428572
+Net_Tox: 4.899212851721408
+Network_yield: -999
+Gibbs: -9.626998544594276
+Fitness: 302.960871432854
+
+=====> Mutation of the 1th iteration, 12th particle <=====
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01303', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.14.99.-', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01303
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.603174603174564
+理论产率 = 0.16015211640211582 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 9.870833333333334
+Net_Tox: 17.69527900380978
+Network_yield: 0.16015211640211582
+Gibbs: 57.500411627639295
+Fitness: 17.95234249136918
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01303', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.14.99.-', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01303
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.603174603174564
+理论产率 = 0.16015211640211582 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 9.870833333333334
+Net_Tox: 17.69527900380978
+Network_yield: 0.16015211640211582
+Gibbs: 57.500411627639295
+Fitness: 17.95234249136918
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R10246', 'C00082', 'C01468'], ['R12133', 'C01468', 'C17467'], ['R12134', 'C17467', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R12133', 'R12134', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C17467', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.17.9.1', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 16
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R12133
+添加反应：R12134
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609179
+理论产率 = 0.18467013888888864 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 9.870833333333334
+Net_Tox: 17.69527900380978
+Network_yield: 0.18467013888888864
+Gibbs: -18.45974718203551
+Fitness: 2.7529553226881878
+
+=====> Mutation of the 1th iteration, 13th particle <=====
+=====> after trim_chrom:  长度是4---[['R01294', 'C00633', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R02675', 'R01294', 'R01296', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.2.1.7', '1.14.13.33', '2.1.1.382', '1.2.3.9']
+Min-count: 17
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R02675
+添加反应：R01294
+添加反应：R01296
+添加反应：R07668
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 6
+Net_count: 10.372499999999999
+Net_Tox: 13.648074874135345
+Network_yield: -999
+Gibbs: -16.143808176012286
+Fitness: 302.3126033396246
+
+=====> Mutation of the 1th iteration, 14th particle <=====
+=====> after trim_chrom:  长度是4---[['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+get_network_totalReactions -> original-rxn_list:
+['R00729', 'R03337', 'R08766', 'R01308', 'R01297', 'R06851', 'R11348', 'R05250', 'R03247', 'R01637', 'R05274', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03964', 'C00811', 'C00156', 'C00530', 'C02814', 'C01751', 'C01108', 'C01424', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.4.3.2', '1.1.1.110', '4.2.1.-', '1.14.13.64', '1.14.13.-', '1.14.14.27', '4.1.1.59', '1.14.13.82', '1.2.3.9']
+Min-count: 24
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00729 TYROX
+添加反应：R03337
+添加反应：R08766 T4HCINNMFM
+添加反应：R01308
+添加反应：R01297
+添加反应：R06851
+添加反应：R11348
+添加反应：R05250
+添加反应：R03247
+添加反应：R01637
+添加反应：R05274 VNTDM
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 12
+Net_count: 14.773214285714285
+Net_Tox: 4.940536564505932
+Network_yield: -999
+Gibbs: -1.3666607397570374
+Fitness: 304.8467394506641
+
+----- Crossover with local -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00729', 'C00082', 'C01179'], ['R03337', 'C01179', 'C03964'], ['R08766', 'C03964', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01297', 'C00156', 'C00530'], ['R06851', 'C00530', 'C02814'], ['R11348', 'C02814', 'C01751'], ['R05250', 'C01751', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00729', 'C00082', 'C01179'], ['R03337', 'C01179', 'C03964'], ['R08766', 'C03964', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01297', 'C00156', 'C00530'], ['R06851', 'C00530', 'C02814'], ['R11348', 'C02814', 'C01751'], ['R05250', 'C01751', 'C01108'], ['R03247', 'C01108', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00729', 'R03337', 'R08766', 'R01308', 'R01297', 'R06851', 'R11348', 'R05250', 'R03247', 'R01637', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03964', 'C00811', 'C00156', 'C00530', 'C02814', 'C01751', 'C01108', 'C01424', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.4.3.2', '1.1.1.110', '4.2.1.-', '1.14.13.64', '1.14.13.-', '1.14.14.27', '4.1.1.59', '2.1.1.341', '1.2.1.67']
+Min-count: 26
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00729 TYROX
+添加反应：R03337
+添加反应：R08766 T4HCINNMFM
+添加反应：R01308
+添加反应：R01297
+添加反应：R06851
+添加反应：R11348
+添加反应：R05250
+添加反应：R03247
+添加反应：R01637
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：7.800259403372204
+理论产率 = 0.1181646439379897 mmol-Dgly/mmol-glc
+Length: 12
+Net_count: 15.818214285714285
+Net_Tox: 8.987740694180369
+Network_yield: 0.1181646439379897
+Gibbs: -1.3666607397570374
+Fitness: 6.234230883417555
+
+----- Crossover with global -----
+-----Crossover Successfully!-----
+Chromosomes before crossover is :
+[['R00729', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+Chromosomes after crossover is :
+[['R00729', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R02672', 'C03590', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]
+get_network_totalReactions -> original-rxn_list:
+['R00729', 'R06626', 'R02672', 'R01293', 'R01298', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.4.3.2', '2.6.1.103', '4.1.1.7', '1.2.1.28', '1.14.13.2', '2.1.1.341', '1.2.3.9']
+Min-count: 11
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00729 TYROX
+添加反应：R06626
+添加反应：R02672
+添加反应：R01293 VNDH_2
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.226436781609179
+理论产率 = 0.4657690202517782 mmol-Dgly/mmol-glc
+Length: 7
+Net_count: 7.0511904761904765
+Net_Tox: 6.62473194708482
+Network_yield: 0.4657690202517782
+Gibbs: -13.407455215229248
+Fitness: 0.619081783152724
+
+=====> Mutation of the 1th iteration, 15th particle <=====
+get_network_totalReactions -> original-rxn_list:
+['R07212', 'R08846', 'R13082', 'R13072', 'R03640', 'R02160', 'R02157', 'R05323', 'R03456', 'R06578', 'R06584', 'R12566']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C22567', 'C05631', 'C01617', 'C00389', 'C04443', 'C01265', 'C00021', 'C12203', 'C00406', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.2', '4.3.1.22', '3.7.1.4', '1.14.11.9', '1.14.20.6', '2.1.1.76', '2.1.1.82', '2.1.1.83', '2.1.1.104', '4.1.2.61']
+Min-count: 31
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.

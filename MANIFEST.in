@@ -1,0 +1,7 @@
+include mooseeker/data/*
+include mooseeker/data/gibbs/*
+include mooseeker/data/kegg/*
+include mooseeker/data/theoretical_yield/*
+include mooseeker/fit_funcs/gibbs/dGPredictor/CC/data_cc/*
+include mooseeker/fit_funcs/gibbs/dGPredictor/CC/data_cc/original_backup/*
+include mooseeker/fit_funcs/gibbs/dGPredictor/data/*

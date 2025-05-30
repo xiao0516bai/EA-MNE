@@ -1,0 +1,363 @@
+-----Sampling-----
+=====> after trim_chrom:  长度是15---[['R10059', 'C00082', 'C01060'], ['R09522', 'C01060', 'C02515'], ['R03953', 'C02515', 'C02218'], ['R08698', 'C02218', 'C00022'], ['R00224', 'C00022', 'C00084'], ['R00326', 'C00084', 'C00033'], ['R05336', 'C00033', 'C00989'], ['R01644', 'C00989', 'C00232'], ['R00714', 'C00232', 'C00042'], ['R12082', 'C00042', 'C00026'], ['R00694', 'C00026', 'C00166'], ['R10431', 'C00166', 'C00021'], ['R01942', 'C00021', 'C00323'], ['R01942', 'C00323', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是5---[['R07211', 'C00082', 'C00079'], ['R00693', 'C00079', 'C03519'], ['R00693', 'C03519', 'C00024'], ['R12566', 'C00024', 'C00406'], ['R12566', 'C00406', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R07212', 'C00082', 'C00355'], ['R12541', 'C00355', 'C05650'], ['R12542', 'C05650', 'C00643'], ['R02701', 'C00643', 'C00780'], ['R02912', 'C00780', 'C05659'], ['R02912', 'C05659', 'C00440'], ['R10136', 'C00440', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R00734', 'C00082', 'C01179'], ['R06626', 'C01179', 'C03590'], ['R04160', 'C03590', 'C03198'], ['R02673', 'C03198', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 1th chromsome---
+=====> after trim_chrom:  长度是5---[['R00737', 'C00082', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 2th chromsome---
+=====> after trim_chrom:  长度是6---[['R12540', 'C00082', 'C00079'], ['R08690', 'C00079', 'C17235'], ['R10503', 'C17235', 'C00151'], ['R01261', 'C00151', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R10671', 'C00082', 'C04350'], ['R11442', 'C04350', 'C04353'], ['R04306', 'C04353', 'C03766'], ['R02708', 'C03766', 'C03742'], ['R02676', 'C03742', 'C00633'], ['R01294', 'C00633', 'C00156'], ['R01238', 'C00156', 'C00146'], ['R09539', 'C00146', 'C00805'], ['R07709', 'C00805', 'C00628'], ['R02589', 'C00628', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+Path length exceeds 10, regenerating.
+=====> after trim_chrom:  长度是9---[['R10671', 'C00082', 'C04350'], ['R11442', 'C04350', 'C04353'], ['R04306', 'C04353', 'C03766'], ['R02708', 'C03766', 'C03742'], ['R02676', 'C03742', 'C00633'], ['R01303', 'C00633', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 3th chromsome---
+=====> after trim_chrom:  长度是13---[['R09254', 'C00082', 'C01179'], ['R03339', 'C01179', 'C03964'], ['R12492', 'C03964', 'C00811'], ['R02950', 'C00811', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R10701', 'C10434', 'C00493'], ['R02413', 'C00493', 'C02637'], ['R03084', 'C02637', 'C00944'], ['R01872', 'C00944', 'C00296'], ['R02195', 'C00296', 'C02572'], ['R02195', 'C02572', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是5---[['R12540', 'C00082', 'C00079'], ['R01376', 'C00079', 'C00078'], ['R10180', 'C00078', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是6---[['R00737', 'C00082', 'C00811'], ['R07826', 'C00811', 'C01197'], ['R03366', 'C01197', 'C01494'], ['R02194', 'C01494', 'C00406'], ['R05772', 'C00406', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+--This is the 4th chromsome---
+=====> after trim_chrom:  长度是12---[['R09254', 'C00082', 'C00041'], ['R02970', 'C00041', 'C00022'], ['R00585', 'C00022', 'C00168'], ['R00585', 'C00168', 'C00065'], ['R07644', 'C00065', 'C05821'], ['R07644', 'C05821', 'C00196'], ['R00821', 'C00196', 'C00090'], ['R07700', 'C00090', 'C00292'], ['R01860', 'C00292', 'C00568'], ['R05280', 'C00568', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是14---[['R01795', 'C00082', 'C00079'], ['R01376', 'C00079', 'C00078'], ['R09570', 'C00078', 'C00016'], ['R07892', 'C00016', 'C16332'], ['R07892', 'C16332', 'C16331'], ['R07891', 'C16331', 'C16330'], ['R07891', 'C16330', 'C00024'], ['R00742', 'C00024', 'C00083'], ['R11445', 'C00083', 'C00021'], ['R01942', 'C00021', 'C00323'], ['R07928', 'C00323', 'C16369'], ['R07928', 'C16369', 'C08604'], ['R10259', 'C08604', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是11---[['R12540', 'C00082', 'C00079'], ['R01376', 'C00079', 'C00078'], ['R09570', 'C00078', 'C00016'], ['R05537', 'C00016', 'C00024'], ['R08433', 'C00024', 'C06020'], ['R02289', 'C06020', 'C00440'], ['R09271', 'C00440', 'C05616'], ['R03551', 'C05616', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 5th chromsome---
+=====> after trim_chrom:  长度是5---[['R12759', 'C00082', 'C00146'], ['R10043', 'C00146', 'C00090'], ['R00822', 'C00090', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 6th chromsome---
+=====> after trim_chrom:  长度是3---[['R09254', 'C00082', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是13---[['R09254', 'C00082', 'C00041'], ['R02293', 'C00041', 'C00022'], ['R00216', 'C00022', 'C00149'], ['R00343', 'C00149', 'C00036'], ['R00350', 'C00036', 'C04115'], ['R04478', 'C04115', 'C04434'], ['R09273', 'C04434', 'C18345'], ['R09274', 'C18345', 'C03671'], ['R04280', 'C03671', 'C05616'], ['R03551', 'C05616', 'C01424'], ['R01637', 'C01424', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+Path length exceeds 10, regenerating.
+=====> after trim_chrom:  长度是16---[['R12540', 'C00082', 'C00079'], ['R00698', 'C00079', 'C02505'], ['R02540', 'C02505', 'C07086'], ['R06791', 'C07086', 'C05593'], ['R03299', 'C05593', 'C01161'], ['R03300', 'C01161', 'C04043'], ['R11916', 'C04043', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R13082', 'C10447', 'C22567'], ['R13082', 'C22567', 'C02183'], ['R04297', 'C02183', 'C01108'], ['R05250', 'C01108', 'C01751'], ['R11348', 'C01751', 'C02814'], ['R01630', 'C02814', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R10246', 'C00082', 'C01468'], ['R07663', 'C01468', 'C06677'], ['R05281', 'C06677', 'C06678'], ['R05271', 'C06678', 'C06679'], ['R05272', 'C06679', 'C02236'], ['R01636', 'C02236', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 7th chromsome---
+=====> after trim_chrom:  长度是11---[['R00730', 'C00082', 'C03004'], ['R04460', 'C03004', 'C15503'], ['R07190', 'C15503', 'C04350'], ['R11442', 'C04350', 'C04353'], ['R04306', 'C04353', 'C03766'], ['R02708', 'C03766', 'C03742'], ['R02676', 'C03742', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 8th chromsome---
+=====> after trim_chrom:  长度是10---[['R00731', 'C00082', 'C00355'], ['R08846', 'C00355', 'C10447'], ['R11206', 'C10447', 'C01197'], ['R10701', 'C01197', 'C10434'], ['R06582', 'C10434', 'C02947'], ['R02416', 'C02947', 'C00493'], ['R02415', 'C00493', 'C02637'], ['R01627', 'C02637', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 9th chromsome---
+=====> after trim_chrom:  长度是4---[['R07211', 'C00082', 'C00079'], ['R00692', 'C00079', 'C00041'], ['R12622', 'C00041', 'C16666'], ['R12622', 'C16666', 'C00755']]<=====
+=====> after trim_chrom:  长度是16---[['R00737', 'C00082', 'C00811'], ['R07826', 'C00811', 'C01197'], ['R01943', 'C01197', 'C00323'], ['R07873', 'C00323', 'C16297'], ['R07875', 'C16297', 'C12640'], ['R06799', 'C12640', 'C12641'], ['R06800', 'C12641', 'C12647'], ['R06800', 'C12647', 'C00083'], ['R09527', 'C00083', 'C00332'], ['R01365', 'C00332', 'C00136'], ['R11675', 'C00136', 'C00877'], ['R02488', 'C00877', 'C00527'], ['R05586', 'C00527', 'C06715'], ['R05586', 'C06715', 'C00024'], ['R05773', 'C00024', 'C07303'], ['R05773', 'C07303', 'C00755']]<=====
+=====> after trim_chrom:  长度是8---[['R10246', 'C00082', 'C01468'], ['R02675', 'C01468', 'C00633'], ['R01293', 'C00633', 'C00156'], ['R01295', 'C00156', 'C00180'], ['R01427', 'C00180', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R07668', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 10th chromsome---
+=====> after trim_chrom:  长度是8---[['R09830', 'C00082', 'C01179'], ['R00042', 'C01179', 'C00642'], ['R13086', 'C00642', 'C22553'], ['R13084', 'C22553', 'C00974'], ['R02444', 'C00974', 'C00509'], ['R12213', 'C00509', 'C00021'], ['R07240', 'C00021', 'C10469'], ['R12302', 'C10469', 'C00755']]<=====
+--This is the 11th chromsome---
+=====> after trim_chrom:  长度是7---[['R12759', 'C00082', 'C00146'], ['R00815', 'C00146', 'C00090'], ['R00821', 'C00090', 'C00196'], ['R01508', 'C00196', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 12th chromsome---
+=====> after trim_chrom:  长度是11---[['R10246', 'C00082', 'C01468'], ['R05666', 'C01468', 'C01455'], ['R03560', 'C01455', 'C01542'], ['R03608', 'C01542', 'C02923'], ['R03566', 'C02923', 'C01467'], ['R07665', 'C01467', 'C03351'], ['R04136', 'C03351', 'C03067'], ['R07666', 'C03067', 'C00587'], ['R01628', 'C00587', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 13th chromsome---
+=====> after trim_chrom:  长度是8---[['R11917', 'C00082', 'C03765'], ['R03341', 'C03765', 'C01179'], ['R03337', 'C01179', 'C03964'], ['R12492', 'C03964', 'C00811'], ['R01308', 'C00811', 'C00156'], ['R01298', 'C00156', 'C00230'], ['R10136', 'C00230', 'C06672'], ['R05699', 'C06672', 'C00755']]<=====
+--This is the 14th chromsome---
+=====> after trim_chrom:  长度是5---[['R00728', 'C00082', 'C00146'], ['R01238', 'C00146', 'C00156'], ['R01296', 'C00156', 'C00230'], ['R05274', 'C00230', 'C06672'], ['R05273', 'C06672', 'C00755']]<=====
+--This is the 15th chromsome---
+-----Sampling Done-----
+get_network_totalReactions -> original-rxn_list:
+['R00734', 'R06626', 'R04160', 'R02673', 'R01294', 'R01298', 'R05274', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01179', 'C03590', 'C03198', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+--- 4 expanding the path into a network
+--- 5 expanding the path into a network
+--- 6 expanding the path into a network
+--- 7 expanding the path into a network
+--- 8 expanding the path into a network
+--- 9 expanding the path into a network
+--- 10 expanding the path into a network
+--- 11 expanding the path into a network
+--- 12 expanding the path into a network
+--- 13 expanding the path into a network
+--- 14 expanding the path into a network
+--- 15 expanding the path into a network
+For this path,best_enzyme_pool:
+['2.6.1.1', '2.6.1.103', '1.1.99.31', '1.1.3.19', '1.2.1.7', '1.14.13.2', '1.14.13.82', '1.2.1.67']
+Min-count: 8
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+反应已存在：R00734 TYRTA
+添加反应：R06626
+添加反应：R04160
+添加反应：R02673
+添加反应：R01294
+添加反应：R01298 4HBHYOX
+添加反应：R05274 VNTDM
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 8
+Net_count: 4.0
+Net_Tox: 2.065221903387576
+Network_yield: -999
+Gibbs: -7.018336914723667
+Fitness: 999.0
+
+get_network_totalReactions -> original-rxn_list:
+['R00737', 'R01308', 'R01298', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00811', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+--- 3 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.3.1.23', '1.14.13.2', '2.1.1.341', '1.2.1.67']
+Min-count: 5
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00737
+添加反应：R01308
+添加反应：R01298 4HBHYOX
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：10.6031746031746
+理论产率 = 0.5301587301587299 mmol-Dgly/mmol-glc
+Length: 5
+Net_count: 2.5
+Net_Tox: 6.112426033062013
+Network_yield: 0.5301587301587299
+Gibbs: -1.3666607397570374
+Fitness: -0.5301587301587299
+
+get_network_totalReactions -> original-rxn_list:
+['R10671', 'R11442', 'R04306', 'R02708', 'R02676', 'R01303', 'R01298', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C04350', 'C04353', 'C03766', 'C03742', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.14.36', '1.14.14.37', '1.14.14.37', '1.14.14.37', '4.1.2.11', '1.14.99.-', '1.14.13.2', '2.1.1.382', '1.2.3.9']
+Min-count: 13
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10671
+添加反应：R11442
+添加反应：R04306
+添加反应：R02708
+添加反应：R02676
+添加反应：R01303
+添加反应：R01298 4HBHYOX
+添加反应：R07668
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 9
+Net_count: 6.95
+Net_Tox: 2.065221903387576
+Network_yield: -999
+Gibbs: 57.500411627639295
+Fitness: 999.0
+
+get_network_totalReactions -> original-rxn_list:
+['R00737', 'R07826', 'R03366', 'R02194', 'R05772', 'R05773']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00811', 'C01197', 'C01494', 'C00406', 'C07303', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.3.1.23', '1.14.13.-', '2.1.1.68', '6.2.1.12', '4.1.2.61', '4.1.2.61']
+Min-count: 10
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00737
+添加反应：R07826
+添加反应：R03366
+添加反应：R02194 FERULCOAS
+添加反应：R05772
+添加反应：R05773
+最大生物量：7.409914529914521
+理论产率 = 0.37049572649572604 mmol-Dgly/mmol-glc
+Length: 6
+Net_count: 5.25
+Net_Tox: 1.3054384683619733
+Network_yield: 0.37049572649572604
+Gibbs: -10.536490368480237
+Fitness: -0.37049572649572604
+
+get_network_totalReactions -> original-rxn_list:
+['R12540', 'R01376', 'R09570', 'R05537', 'R08433', 'R02289', 'R09271', 'R03551', 'R01637', 'R07668', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00079', 'C00078', 'C00016', 'C00024', 'C06020', 'C00440', 'C05616', 'C01424', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+--- 2 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.16.1', '2.6.1.28', '1.14.19.9', '2.3.1.169', '2.1.1.258', '2.1.1.341', '2.1.1.382', '1.2.1.67']
+Min-count: 13
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R12540
+添加反应：R01376
+添加反应：R09570
+添加反应：R05537
+添加反应：R08433
+添加反应：R02289
+添加反应：R09271
+添加反应：R03551
+添加反应：R01637
+添加反应：R07668
+添加反应：R05699 VNDH
+最大生物量：0.0
+This pathway is not feasible!
+Length: 11
+Net_count: 6.5
+Net_Tox: 11.49934722355931
+Network_yield: -999
+Gibbs: 6.6061329048765565
+Fitness: 999.0
+
+get_network_totalReactions -> original-rxn_list:
+['R12759', 'R10043', 'R00822', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00146', 'C00090', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.2', '1.14.13.244', '4.1.1.63', '2.1.1.341', '1.2.3.9']
+Min-count: 7
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R12759
+添加反应：R10043
+添加反应：R00822
+添加反应：R10136
+添加反应：R05273
+最大生物量：0.0
+This pathway is not feasible!
+Length: 5
+Net_count: 4.25
+Net_Tox: 4.377549878797016
+Network_yield: -999
+Gibbs: -11.477890682153287
+Fitness: 999.0
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R07663', 'R05281', 'R05271', 'R05272', 'R01636', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C06677', 'C06678', 'C06679', 'C02236', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.14.13.-', '1.14.13.-', '1.1.1.257', '1.2.1.62', '1.14.12.8', '2.1.1.341', '1.2.3.9']
+Min-count: 8
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R10246
+添加反应：R07663
+添加反应：R05281
+添加反应：R05271
+添加反应：R05272
+添加反应：R01636
+添加反应：R10136
+添加反应：R05273
+最大生物量：0.0003254577946172923
+This pathway is not feasible!
+Length: 8
+Net_count: 4.0
+Net_Tox: 4.377549878797016
+Network_yield: -999
+Gibbs: -12.077827049001456
+Fitness: 999.0
+
+get_network_totalReactions -> original-rxn_list:
+['R00730', 'R04460', 'R07190', 'R11442', 'R04306', 'R02708', 'R02676', 'R01293', 'R01296', 'R10136', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C03004', 'C15503', 'C04350', 'C04353', 'C03766', 'C03742', 'C00633', 'C00156', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.14.36', '1.14.14.36', '1.14.14.36', '1.14.14.37', '1.14.14.37', '1.14.14.37', '4.1.2.11', '1.2.1.28', '1.14.13.33', '2.1.1.341', '1.2.3.9']
+Min-count: 13
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00730
+添加反应：R04460
+添加反应：R07190
+添加反应：R11442
+添加反应：R04306
+添加反应：R02708
+添加反应：R02676
+添加反应：R01293 VNDH_2
+添加反应：R01296
+添加反应：R10136
+添加反应：R05273
+最大生物量：12.36860465116281
+理论产率 = 0.6184302325581406 mmol-Dgly/mmol-glc
+Length: 11
+Net_count: 6.5
+Net_Tox: 4.377549878797016
+Network_yield: 0.6184302325581406
+Gibbs: -11.468681807882778
+Fitness: -0.6184302325581406
+
+get_network_totalReactions -> original-rxn_list:
+['R00731', 'R08846', 'R11206', 'R10701', 'R06582', 'R02416', 'R02415', 'R01627', 'R10136', 'R05699']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C00355', 'C10447', 'C01197', 'C10434', 'C02947', 'C00493', 'C02637', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+For this path,best_enzyme_pool:
+['1.14.18.1', '4.3.1.22', '2.8.3.23', '3.1.1.-', '1.14.14.96', '2.3.1.133', '1.1.5.8', '4.2.1.118', '2.1.1.341', '1.2.1.67']
+Min-count: 14
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
+The current solver interface glpk doesn't support setting the optimality tolerance.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+Compartment `e` sounds like an external compartment. Using this one without counting boundary reactions.
+添加反应：R00731
+添加反应：R08846
+添加反应：R11206
+添加反应：R10701
+添加反应：R06582
+添加反应：R02416
+添加反应：R02415
+添加反应：R01627 DHSKDH
+添加反应：R10136
+添加反应：R05699 VNDH
+最大生物量：13.440277777777718
+理论产率 = 0.6720138888888859 mmol-Dgly/mmol-glc
+Length: 10
+Net_count: 7.15
+Net_Tox: 6.078903133103479
+Network_yield: 0.6720138888888859
+Gibbs: -2.489744180742301
+Fitness: -0.6720138888888859
+
+get_network_totalReactions -> original-rxn_list:
+['R10246', 'R02675', 'R01293', 'R01295', 'R01427', 'R01628', 'R07668', 'R05273']
+get_network_totalReactions -> original-cpd_list:
+['C00082', 'C01468', 'C00633', 'C00156', 'C00180', 'C00587', 'C00230', 'C06672', 'C00755']
+--- 0 expanding the path into a network
+--- 1 expanding the path into a network
+For this path,best_enzyme_pool:
+['4.1.99.19', '1.17.9.1', '1.2.1.64', '1.14.14.92', '1.14.13.23', '2.1.1.382', '1.2.3.9']
+Min-count: 11
+开始代谢网络分支评估:
+开始计算理论产率...
+The current solver interface glpk doesn't support setting the optimality tolerance.
